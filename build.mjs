@@ -481,7 +481,8 @@ for (const f of fichas) {
 })(DADOS, 'DADOS');
 
 const css = ler('src/estilo.css');
-const corpo = ler('src/corpo.html');
+const logo = 'data:image/png;base64,' + fs.readFileSync(path.join(RAIZ, 'src/logo.png')).toString('base64');
+const corpo = ler('src/corpo.html').replace('{{LOGO}}', logo);
 const js = ler('src/busca.js') + '\n' + ler('src/app.js');
 if (/[—–]|--/.test(corpo)) erros.push('travessão ou hífen duplo em src/corpo.html');
 if (/[—–]|--/.test(js)) erros.push('travessão ou hífen duplo no JavaScript');
@@ -498,7 +499,7 @@ const TITULO = 'Consulta de Audiência Teles & Ramos';
 const cabeca = [
   `<title>${TITULO.replace('&', '&amp;')}</title>`,
   '<meta name="claude:viewport-fit-sides" content="cover">',
-  '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">',
+  '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700&display=swap">',
   `<style>\n${css}\n</style>`,
 ].join('\n');
 const miolo = `${corpo}\n<script type="application/json" id="dados">${json}</script>\n<script>\n${js}\n</script>\n`;

@@ -511,8 +511,18 @@ fs.writeFileSync(path.join(RAIZ, 'dist/dados.json'), JSON.stringify(DADOS, null,
 fs.writeFileSync(path.join(RAIZ, 'index.html'), [
   '<!doctype html>', '<html lang="pt-BR">', '<head>', '<meta charset="utf-8">',
   '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">',
-  '<style>:root{color-scheme:light}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>',
-  cabeca, '</head>', '<body>', miolo, '</body>', '</html>', '',
+  '<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>',
+  // App de tela de início no iPhone e no Android, com cópia offline pelo sw.js.
+  '<link rel="manifest" href="manifest.webmanifest">',
+  '<link rel="apple-touch-icon" href="icone-180.png">',
+  '<meta name="apple-mobile-web-app-capable" content="yes">',
+  '<meta name="mobile-web-app-capable" content="yes">',
+  '<meta name="apple-mobile-web-app-title" content="Teles &amp; Ramos">',
+  '<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">',
+  '<meta name="theme-color" content="#0a1a36">',
+  cabeca, '</head>', '<body>', miolo,
+  "<script>try{if('serviceWorker' in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js');}catch(e){}</script>",
+  '</body>', '</html>', '',
 ].join('\n'));
 
 const porCat = {};

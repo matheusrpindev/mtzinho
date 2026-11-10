@@ -128,11 +128,28 @@
     for (var i = 0; i < DADOS.atalhos.length; i += 1) if (DADOS.atalhos[i].id === id) return DADOS.atalhos[i].rotulo;
     return id;
   }
+  var ICONES = {
+    mp: '<path d="M12 4v16M7.5 20h9M5 7h14M5 7l-2.5 6a3 3 0 0 0 5 0zM19 7l-2.5 6a3 3 0 0 0 5 0z"/>',
+    mariana: '<circle cx="12" cy="8" r="3.5"/><path d="M5 20c.6-3.6 3.4-5.5 7-5.5s6.4 1.9 7 5.5"/>',
+    psicologo: '<path d="M12 4v16M6 5v3.5c0 3.6 2.4 6 6 6s6-2.4 6-6V5M9 20h6"/>',
+    conselho: '<path d="M12 3.5l7 2.5v5.5c0 4.2-2.8 7.4-7 9-4.2-1.6-7-4.8-7-9V6z"/><path d="M9 12l2.2 2.2L15.2 10"/>',
+    social: '<path d="M4 11.5l8-7 8 7M6.5 10v9.5h11V10M10 19.5v-5h4v5"/>',
+    testemunhas: '<circle cx="9" cy="8.5" r="3"/><path d="M3.5 19.5c.5-3 2.6-4.8 5.5-4.8s5 1.8 5.5 4.8M15.5 5.8a3 3 0 0 1 0 5.6M17 14.9c2 .6 3.2 2.2 3.6 4.6"/>',
+    wagner: '<circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c.6-3.6 3-5.5 6.5-5.5 1.3 0 2.5.3 3.5.8M15 18l2 2 4-4.5"/>',
+    erro: '<path d="M12 4.5l8.5 15h-17zM12 10.5v4M12 17.2v.3"/>',
+    alimentos: '<circle cx="12" cy="12" r="8"/><path d="M14.6 9.6c-.5-.9-1.4-1.4-2.6-1.4-1.5 0-2.6.8-2.6 1.9 0 2.7 5.4 1.2 5.4 4 0 1.1-1.2 1.9-2.8 1.9-1.3 0-2.3-.6-2.8-1.5M12 6.5v1.7M12 16v1.5"/>',
+    guarda: '<path d="M12 19.5s-7-4.3-7-9.5a4 4 0 0 1 7-2.6 4 4 0 0 1 7 2.6c0 5.2-7 9.5-7 9.5z"/>',
+    partilha: '<path d="M11 5a8 8 0 1 0 8 8h-8z"/><path d="M14 3a7 7 0 0 1 7 7h-7z"/>',
+    artigos: '<text x="12" y="18.5" text-anchor="middle" font-size="19" font-weight="600" font-family="Georgia, serif" stroke="none" fill="currentColor">§</text>',
+    frases: '<path d="M5 17v-4.5c0-3 1.5-5 4.5-5.5M5 12.5h4.5V17H5zM14 17v-4.5c0-3 1.5-5 4.5-5.5M14 12.5h4.5V17H14z"/>',
+    alegacoes: '<rect x="9" y="3.5" width="6" height="10.5" rx="3"/><path d="M5.5 11.5a6.5 6.5 0 0 0 13 0M12 18v2.5M8.5 20.5h7"/>',
+  };
   function desenharAtalhos() {
     var el = $('atalhos');
     el.className = 'atalhos' + (E.q || E.atalho ? ' compacto' : '');
     el.innerHTML = DADOS.atalhos.map(function (a) {
-      return '<button type="button" data-acao="atalho" data-id="' + a.id + '" aria-pressed="' + (E.atalho === a.id) + '"><span>' + esc(a.rotulo) + '</span><small>' + motor.porAtalho(a.id).length + ' fichas</small></button>';
+      return '<button type="button" data-acao="atalho" data-id="' + a.id + '" aria-pressed="' + (E.atalho === a.id) + '"><span class="at-ic"><svg viewBox="0 0 24 24" aria-hidden="true">' +
+        (ICONES[a.id] || '') + '</svg></span><span class="at-rot">' + esc(a.rotulo) + '</span><small class="at-num">' + motor.porAtalho(a.id).length + ' fichas</small></button>';
     }).join('');
   }
   function inicio() {
@@ -207,9 +224,11 @@
     $('linha').innerHTML = DADOS.roteiro.map(function (p) {
       var atual = E.parte === p.n;
       var aberta = E.aberta === p.n;
-      var h = '<li class="parte' + (atual ? ' atual' : '') + '"><button type="button" class="parte-topo" data-acao="abrir-parte" data-n="' + p.n +
+      var passada = E.parte > p.n;
+      var h = '<li class="parte' + (atual ? ' atual' : passada ? ' passada' : '') + '"><button type="button" class="parte-topo" data-acao="abrir-parte" data-n="' + p.n +
         '" aria-expanded="' + aberta + '"><span class="parte-n">' + p.n + '</span><span class="parte-titulo">' +
-        esc(p.titulo) + (atual ? '<span class="selo-atual">Atual</span>' : '') + '</span><span class="parte-quem">' + esc(p.quem) + '</span></button>';
+        esc(p.titulo) + (atual ? '<span class="selo-atual">Atual</span>' : '') + '</span><span class="parte-quem">' + esc(p.quem) +
+        (passada ? ' · concluída' : '') + '</span><span class="parte-seta" aria-hidden="true"></span></button>';
       if (aberta) {
         h += '<div class="parte-corpo"><p><strong>' + esc(p.resumo) + '</strong></p>';
         if (p.juiz) h += '<div class="juiz"><b>O juiz, no roteiro da professora</b>' + esc(p.juiz) + '</div>';
@@ -242,7 +261,7 @@
       return '<button type="button" data-acao="pessoa" data-id="' + p.id + '" aria-pressed="' + (p.id === E.pessoa) + '">' + esc(p.nome) + '</button>';
     }).join('');
     var p = pessoaAtual();
-    var h = '<div><h3>' + esc(p.nome) + '</h3><p class="apoio">' + esc(p.papel) + ' · quem conduz: ' + esc(p.quem) + ' · Parte ' + p.parte + '</p></div>';
+    var h = '<div class="pessoa-topo"><h3>' + esc(p.nome) + '</h3><p class="apoio">' + esc(p.papel) + ' · quem conduz: ' + esc(p.quem) + ' · Parte ' + p.parte + '</p></div>';
     h += '<p>' + esc(p.intro) + '</p>';
     if (p.avisos.length) h += '<ul class="avisos">' + p.avisos.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul>';
     if (p.fala) h += caixaFala(p.fala.rotulo.toUpperCase() + ' · ' + p.fala.quem.toUpperCase(), p.fala.texto, [], false);
@@ -250,15 +269,14 @@
       var defesa = b.tipo === 'defesa';
       var feitas = b.itens.filter(function (it) { return E.feitas[p.id + '-' + it.cod]; }).length;
       h += '<p class="titulo-bloco">' + esc(b.titulo) + (defesa ? ' · ' + feitas + ' de ' + b.itens.length + ' feitas' : '') + '</p>';
+      if (defesa) h += '<progress max="' + b.itens.length + '" value="' + feitas + '" aria-label="Perguntas feitas"></progress>';
       b.itens.forEach(function (it) {
         var chave = p.id + '-' + it.cod;
         var feita = !!E.feitas[chave];
         var idc = 'chk-' + chave;
-        h += '<div class="pergunta' + (feita ? ' feita' : '') + '">';
-        h += defesa
-          ? '<input type="checkbox" id="' + idc + '" data-chave="' + chave + '"' + (feita ? ' checked' : '') + ' aria-label="Já perguntei ' + esc(it.cod) + '">'
-          : '<span></span>';
-        h += '<div><p class="p-cod">' + esc(it.cod) + (it.provocativa ? '<span class="prov">Provocativa</span>' : '') + (defesa && feita ? ' · já perguntei' : '') + '</p>';
+        h += '<div class="pergunta' + (feita ? ' feita' : '') + (defesa ? '' : ' ref') + '">';
+        if (defesa) h += '<input type="checkbox" id="' + idc + '" data-chave="' + chave + '"' + (feita ? ' checked' : '') + ' aria-label="Já perguntei ' + esc(it.cod) + '">';
+        h += '<div><p class="p-cod"><span class="cod">' + esc(it.cod) + '</span>' + (it.provocativa ? '<span class="prov">Provocativa</span>' : '') + (defesa && feita ? '<span>já perguntei</span>' : '') + '</p>';
         h += defesa ? '<label class="p-texto" for="' + idc + '">' + esc(it.texto) + '</label>' : '<span class="p-texto">' + esc(it.texto) + '</span>';
         if (it.resposta) h += '<p class="p-resp"><b>' + (defesa ? 'Resposta esperada: ' : 'Resposta combinada: ') + '</b>' + esc(it.resposta) + '</p>';
         var det = [];
@@ -321,6 +339,7 @@
   }
   function alerta(texto, vezes) {
     $('alerta-texto').textContent = texto;
+    $('alerta').className = 'alerta' + (vezes > 2 ? ' fim' : '');
     $('alerta').hidden = false;
     bip(vezes);
   }
@@ -331,9 +350,19 @@
     var caixa = $('relogio');
     caixa.className = 'relogio' + (d >= LIMITE ? ' fim' : d >= AVISO ? ' aviso' : '');
     $('relogio-rotulo').textContent = d >= LIMITE ? 'Tempo esgotado, excedente' : d >= AVISO ? 'Faltam menos de 5 minutos' : 'Tempo restante';
-    $('relogio-tempo').textContent = (resta < 0 ? '+' : '') + relogio(resta, true);
+    var marcador = (resta < 0 ? '+' : '') + relogio(resta, true);
+    var visor = $('relogio-tempo');
+    if (visor.getAttribute('aria-label') !== marcador) {
+      visor.setAttribute('aria-label', marcador);
+      visor.className = 'relogio-tempo' + (marcador.length > 5 ? ' longo' : '');
+      visor.innerHTML = marcador.split('').map(function (c) {
+        return '<span class="' + (c === ':' ? 'dp' : c === '+' ? 'ms' : 'dg') + '" aria-hidden="true">' + c + '</span>';
+      }).join('');
+    }
     $('relogio-sub').textContent = 'Decorrido ' + relogio(d) + ' de 20:00';
-    $('trilho-cheio').style.width = Math.min(100, (d / LIMITE) * 100) + '%';
+    var anel = $('anel-cheio');
+    anel.style.strokeDashoffset = String(100 - Math.min(100, (d / LIMITE) * 100));
+    anel.style.opacity = d > 0 ? '1' : '0';
     $('btn-crono').textContent = c.rodando ? 'Pausar' : d > 0 ? 'Continuar' : 'Iniciar';
     if (c.rodando && d >= AVISO && !c.a15) { c.a15 = true; gravar('crono', c); alerta('15 minutos. Faltam 5.', 2); }
     if (c.rodando && d >= LIMITE && !c.a20) { c.a20 = true; gravar('crono', c); alerta('20 minutos. Tempo esgotado.', 4); }
@@ -398,6 +427,7 @@
   function irPara(tela, semHash) {
     if (TELAS.indexOf(tela) < 0) tela = 'busca';
     E.tela = tela;
+    $('app').setAttribute('data-tela', tela);
     TELAS.forEach(function (t) { $('tela-' + t).hidden = t !== tela; });
     Array.prototype.forEach.call($('abas').querySelectorAll('a'), function (a) {
       if (a.getAttribute('data-tela') === tela) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
@@ -411,9 +441,14 @@
     }
     desenharStatus();
   }
+  function temaEmUso() {
+    var t = document.documentElement.getAttribute('data-theme');
+    if (t === 'dark' || t === 'light') return t;
+    try { return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; } catch (e) { return 'light'; }
+  }
   function aplicarTema(tema) {
-    document.documentElement.setAttribute('data-theme', tema);
-    $('btn-tema').textContent = tema === 'dark' ? 'Tema claro' : 'Tema escuro';
+    if (tema === 'dark' || tema === 'light') document.documentElement.setAttribute('data-theme', tema);
+    $('btn-tema').setAttribute('aria-label', temaEmUso() === 'dark' ? 'Mudar para o tema claro' : 'Mudar para o tema escuro');
   }
   var armado = {};
   function confirmarEmDoisToques(botao, texto, fazer) {
@@ -539,7 +574,7 @@
       irPara(b.getAttribute('data-tela'));
       window.scrollTo(0, 0);
     } else if (acao === 'tema') {
-      var novo = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      var novo = temaEmUso() === 'dark' ? 'light' : 'dark';
       aplicarTema(novo);
       gravar('tema', novo);
     } else if (acao === 'abrir-parte') {
@@ -600,7 +635,7 @@
   });
 
   // ===== partida
-  aplicarTema(ler('tema', 'light'));
+  aplicarTema(ler('tema', ''));
   carregarNotas();
   ligarPasso();
   desenharCrono();

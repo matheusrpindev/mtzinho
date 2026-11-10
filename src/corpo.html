@@ -1,23 +1,29 @@
-<div class="app">
+<div class="app" id="app" data-tela="busca">
+  <h1 class="so-leitor">Consulta de Audiência, Teles &amp; Ramos Advocacia</h1>
   <header class="marca">
     <div class="marca-dentro">
-      <img class="logo" src="{{LOGO}}" alt="" width="119" height="136">
+      <span class="logo" role="img" aria-label="Monograma TR"></span>
       <div class="marca-texto">
-        <p class="marca-nome">Teles &amp; Ramos Advocacia</p>
-        <p class="marca-sistema">Consulta de Audiência</p>
+        <p class="marca-nome">Teles <i>&amp;</i> Ramos</p>
+        <p class="marca-sistema">Advocacia<span class="so-largo"> <span class="ponto">·</span> Consulta de Audiência</span></p>
       </div>
-      <button type="button" class="btn-tema" id="btn-tema" data-acao="tema">Tema escuro</button>
+      <button type="button" class="btn-tema" id="btn-tema" data-acao="tema" aria-label="Mudar o tema">
+        <svg class="ic-lua" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        <svg class="ic-sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>
+      </button>
+    </div>
+    <div class="autos">
+      <p class="autos-selo">Defesa do requerido</p>
+      <p class="autos-nome">Mariana Alves <i>x</i> Wagner Alves</p>
+      <p class="autos-info"><span>Vara da Família e das Sucessões de Mogi das Cruzes/SP</span> <span class="ponto">·</span> <span>Audiência simulada de 11/11/2026</span></p>
     </div>
   </header>
-  <div class="autos">
-    <p><strong>Mariana Alves x Wagner Alves</strong></p>
-    <p>Defesa do requerido <span class="ponto">·</span> Vara da Família e das Sucessões de Mogi das Cruzes/SP <span class="ponto">·</span> Audiência simulada de 11/11/2026</p>
-  </div>
 
   <div class="barra">
     <div class="barra-dentro">
       <div class="campo-busca">
         <label class="so-leitor" for="busca">Buscar na base</label>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
         <input id="busca" type="search" inputmode="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Digite: renda, bicicleta, 329, avó..." autofocus>
         <button type="button" class="btn-limpar" id="btn-limpar" data-acao="limpar" hidden>Limpar</button>
       </div>
@@ -88,10 +94,17 @@
       <h2>Cronômetro de alegações</h2>
       <p class="apoio">20 minutos para a defesa inteira. Aviso aos 15 e aos 20 minutos (CPC, art. 364).</p>
       <div class="relogio" id="relogio">
-        <p class="relogio-rotulo" id="relogio-rotulo">Tempo restante</p>
-        <p class="relogio-tempo" id="relogio-tempo">20:00</p>
-        <div class="trilho" aria-hidden="true"><div class="trilho-cheio" id="trilho-cheio"></div><span class="marca-15"></span></div>
-        <p class="relogio-sub" id="relogio-sub">Decorrido 00:00</p>
+        <svg class="anel" viewBox="0 0 220 220" aria-hidden="true">
+          <circle class="anel-trilho" cx="110" cy="110" r="100"/>
+          <circle class="anel-cheio" id="anel-cheio" cx="110" cy="110" r="100" pathLength="100" transform="rotate(-90 110 110)"/>
+          <path class="anel-marca" d="M2 110h16"/>
+          <text class="anel-rot" x="22" y="113">15</text>
+        </svg>
+        <div class="relogio-dentro">
+          <p class="relogio-rotulo" id="relogio-rotulo">Tempo restante</p>
+          <p class="relogio-tempo" id="relogio-tempo" role="timer">20:00</p>
+          <p class="relogio-sub" id="relogio-sub">Decorrido 00:00</p>
+        </div>
       </div>
       <div class="linha-botoes">
         <button type="button" class="btn" data-acao="crono-iniciar" id="btn-crono">Iniciar</button>

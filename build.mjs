@@ -480,9 +480,10 @@ for (const f of fichas) {
   else if (v && typeof v === 'object') Object.entries(v).forEach(([k, x]) => semTravessao(x, `${caminho}.${k}`));
 })(DADOS, 'DADOS');
 
-const css = ler('src/estilo.css');
+// O monograma entra no CSS como máscara, para poder ser pintado de amarelo ou de branco.
 const logo = 'data:image/png;base64,' + fs.readFileSync(path.join(RAIZ, 'src/logo.png')).toString('base64');
-const corpo = ler('src/corpo.html').replace('{{LOGO}}', logo);
+const css = ler('src/estilo.css').replace('{{LOGO}}', logo);
+const corpo = ler('src/corpo.html');
 const js = ler('src/busca.js') + '\n' + ler('src/app.js');
 if (/[—–]|--/.test(corpo)) erros.push('travessão ou hífen duplo em src/corpo.html');
 if (/[—–]|--/.test(js)) erros.push('travessão ou hífen duplo no JavaScript');
@@ -499,7 +500,7 @@ const TITULO = 'Consulta de Audiência Teles & Ramos';
 const cabeca = [
   `<title>${TITULO.replace('&', '&amp;')}</title>`,
   '<meta name="claude:viewport-fit-sides" content="cover">',
-  '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700&display=swap">',
+  '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&display=swap">',
   `<style>\n${css}\n</style>`,
 ].join('\n');
 const miolo = `${corpo}\n<script type="application/json" id="dados">${json}</script>\n<script>\n${js}\n</script>\n`;

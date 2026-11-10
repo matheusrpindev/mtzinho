@@ -134,7 +134,7 @@ export default [
     o: 'Doc. 02',
   },
   {
-    id: 'rr-17', c: 'Dinheiro e alimentos', t: 'Quanto o Wagner oferece de alimentos aos filhos?', p: 5, a: 'alimentos',
+    id: 'rr-17', c: 'Dinheiro e alimentos', t: 'Quanto o Wagner oferece de alimentos (pensão) aos filhos?', p: 5, a: 'alimentos',
     k: 'alimentos dos filhos, pensão, pensão alimentícia, 30%, R$ 2.550, 2550, R$ 6.000, 6000, despesas extraordinárias, saúde e educação',
     f: 'O requerido oferece 30% dos rendimentos líquidos, hoje cerca de R$ 2.550, mais metade das despesas extraordinárias de saúde e educação.',
     e: 'A autora pede R$ 6.000. Alimentos seguem a necessidade de quem pede e a possibilidade de quem paga. 30% de R$ 8.500 dá R$ 2.550.',

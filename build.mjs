@@ -469,7 +469,7 @@ for (const f of fichas) {
   if (ids.has(f.id)) erros.push(`id repetido: ${f.id}`);
   ids.add(f.id);
   for (const campo of ['id', 'categoria', 'titulo', 'onde_esta']) if (!f[campo]) erros.push(`${f.id}: falta ${campo}`);
-  if (!f.fale_assim && !f.cuidado) erros.push(`${f.id}: sem frase e sem cuidado`);
+  if (!f.fale_assim && !f.cuidado && !f.explicacao) erros.push(`${f.id}: sem frase e sem cuidado`);
   if (!f.palavras_chave.length) erros.push(`${f.id}: sem palavras-chave`);
   for (const a of f.atalhos) if (!DADOS.atalhos.some((x) => x.id === a)) erros.push(`${f.id}: atalho desconhecido ${a}`);
 }
@@ -493,7 +493,7 @@ if (erros.length) {
 
 // ------------------------------------------------------------------ montagem
 
-const json = JSON.stringify(DADOS).replace(/</g, '\\u003c').replace(/ | /g, ' ');
+const json = JSON.stringify(DADOS).replace(/</g, '\\u003c').replace(/[\u2028\u2029]/g, ' ');
 const TITULO = 'Consulta de Audiência Teles & Ramos';
 const cabeca = [
   `<title>${TITULO.replace('&', '&amp;')}</title>`,

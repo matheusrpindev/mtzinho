@@ -1,0 +1,155 @@
+// Roteiro da professora (Partes 1 a 8), como está no capítulo 2 da apostila,
+// com as falas do juiz tiradas do texto do roteiro da professora.
+// falas: r rótulo, q quem fala, t texto.  ver: atalhos para outras telas.
+export default [
+  {
+    n: 1, titulo: 'Abertura e saneamento', quem: 'Marcos requer; Gui impugna', apostila: 'Apostila p. 3',
+    k: 'abertura, saneamento, provas que pretende produzir, requerimentos iniciais, impugnações',
+    resumo: 'O juiz pergunta que provas cada lado quer produzir e sobre quais fatos.',
+    juiz: 'Bom dia. Declaro aberta a audiência una de instrução e julgamento. Seguimos para o saneamento do processo, definindo que provas os senhores advogados pretendem produzir e sobre quais fatos querem fazer provas.',
+    fazer: [
+      'Marcos se apresenta e faz os requerimentos de prova.',
+      'Gui faz as três impugnações em seguida: "erro material", pareceres e documentos.',
+      'O divórcio já é pedido aqui: decretação imediata.',
+    ],
+    falas: [
+      { r: 'Apresentação', q: 'Marcos', t: 'Bom dia, Excelência. Marcos Teles e Luiz Guilherme, pela defesa do requerido Wagner Alves.' },
+      { r: 'Requerimentos de prova', q: 'Marcos', t: 'O requerido concorda com o divórcio e requer sua decretação imediata, nos termos do art. 356, inciso I, do CPC. Requer o depoimento pessoal da autora, a oitiva das testemunhas arroladas, a apreciação dos documentos 01 a 08 juntados com a contestação e o estudo psicossocial com entrevista também do requerido.' },
+      { r: 'Impugnação do "erro material"', q: 'Gui', t: 'A defesa impugna a manifestação da autora de 9 de novembro. Não se trata de erro material, mas de alteração da causa de pedir: a inicial narra em detalhes um episódio com a criança Beatriz e agora atribui o fato a outro filho. Após a citação, isso depende do consentimento do réu, nos termos do art. 329, inciso II, do CPC, e o requerido não consente.' },
+      { r: 'Impugnação dos pareceres', q: 'Gui', t: 'A defesa impugna, ainda, o parecer psicológico e a manifestação do Conselho Tutelar na parte em que tomam como já admitida a alteração da vítima. A correção não foi apreciada por Vossa Excelência e o requerido não consente. Subsidiariamente, se admitida, requer o prazo de 15 dias para manifestação e prova suplementar, previsto no próprio art. 329, inciso II, do CPC, vedada a decisão surpresa, art. 10.' },
+      { r: 'Impugnação de documentos', q: 'Gui', t: 'A defesa impugna o laudo médico, que é de Augusto e não de Beatriz, e os registros de ligação, que apresentam horários impossíveis: o print das 19h03 exibe ligações até as 20h12. Art. 436, incisos II e IV, do CPC.' },
+    ],
+    ver: [{ r: 'Fichas: erro material', atalho: 'erro' }],
+  },
+  {
+    n: 2, titulo: 'MP, técnicos e conselheira tutelar', quem: 'Marcos anota o MP; Gui anota os técnicos', apostila: 'Apostila p. 3',
+    k: 'Ministério Público, promotora, notícia formal de violência, psicólogo, assistente social, conselheira tutelar, pontos controvertidos',
+    resumo: 'O MP deve dizer que não há notícia formal de violência. Anote palavra por palavra.',
+    juiz: 'Indago ao MPE: há notícia de violência doméstica ou risco aos menores? Vou ouvir o psicólogo, a assistente social, e também a conselheira tutelar mencionada nos relatos trazidos aos autos.',
+    esperado: 'Fala prevista do MP no roteiro da professora: "Excelência, não há notícia formal de violência, mas há relato de obstrução à convivência e desentendimentos sobre rotina dos filhos."',
+    fazer: [
+      'Se a promotora disser que não há notícia formal de violência, peça na hora que conste em ata.',
+      'Ordem do roteiro: psicólogo, assistente social e conselheira tutelar.',
+      'Perguntas aos técnicos só se o juiz abrir espaço.',
+      'O juiz fixa os pontos controvertidos: guarda, convivência, alimentos e partilha.',
+    ],
+    falas: [
+      { r: 'Registrar a fala do MP', q: 'Marcos', t: 'Pela ordem, Excelência. Requeiro que conste em ata que o Ministério Público informou não haver notícia formal de violência.' },
+    ],
+    ver: [
+      { r: 'Perguntas ao psicólogo', pessoa: 'psicologo' },
+      { r: 'Perguntas à assistente social', pessoa: 'tatiane' },
+      { r: 'Perguntas ao Conselho Tutelar', pessoa: 'conselho' },
+      { r: 'Anotar o que o MP disse', tela: 'anotacoes' },
+    ],
+  },
+  {
+    n: 3, titulo: 'Depoimentos pessoais', quem: 'Marcos pergunta à Mariana; Gui vigia o depoimento do Wagner', apostila: 'Apostila p. 3',
+    k: 'depoimento pessoal, depoimento da autora, depoimento do réu, é verdade que, interrogatório',
+    resumo: 'Mariana: as 10 perguntas, no formato "é verdade que". Wagner: só a advogada dela pergunta.',
+    juiz: 'Confirmo os pontos controvertidos: guarda unilateral vs compartilhada; regime de convivência; alimentos para ex esposa e filhos e valor dos alimentos; origem e partilha dos bens. Procederemos primeiro ao depoimento pessoal.',
+    fazer: [
+      'Marcos faz as perguntas à Mariana, uma por vez, curtas e fechadas.',
+      'No depoimento do Wagner, intervenha apenas com "Pela ordem, Excelência" se houver abuso.',
+      'O Wagner pode ter que sair da sala enquanto a Mariana depõe (CPC, art. 385, § 2º).',
+      'Um fala, o outro anota contradições.',
+    ],
+    falas: [
+      { r: 'Formato da pergunta', q: 'Marcos', t: 'Sra. Mari, é verdade que...?' },
+      { r: 'Se houver objeção', q: 'Marcos', t: 'Excelência, a pergunta diz respeito à motivação dos pedidos de alimentos, partilha e indenização, que são pontos controvertidos fixados por Vossa Excelência.' },
+      { r: 'Se o juiz cortar', q: 'Marcos', t: 'Retiro a pergunta, Excelência.' },
+      { r: 'Abuso no depoimento do Wagner', q: 'Gui', t: 'Pela ordem, Excelência.' },
+    ],
+    ver: [
+      { r: 'Perguntas à Mariana', pessoa: 'mariana' },
+      { r: 'Respostas combinadas do Wagner', pessoa: 'wagner' },
+      { r: 'Anotar contradições da autora', tela: 'anotacoes' },
+    ],
+  },
+  {
+    n: 4, titulo: 'Testemunhas', quem: 'Gui', apostila: 'Apostila p. 3',
+    k: 'testemunhas, oitiva, contradita, compromisso, contra-interrogatório, perguntas complementares',
+    resumo: 'Primeiro as da autora: contradita da avó antes do compromisso e contra-interrogatório. Depois as nossas.',
+    juiz: 'Prestem compromisso de dizer a verdade.',
+    fazer: [
+      'Testemunha da autora: contradita depois da qualificação e antes do compromisso.',
+      'Depois, o contra-interrogatório dela (perguntas A1 a A5).',
+      'Nas nossas testemunhas, o juiz pergunta primeiro. Em seguida, peça as perguntas complementares.',
+    ],
+    falas: [
+      { r: 'Contradita da avó', q: 'Gui', t: 'Excelência, a defesa contradita a testemunha, por ser mãe da autora, com fundamento no art. 447, § 2º, inciso I, do CPC. Caso Vossa Excelência entenda necessária a oitiva, requer que seja ouvida como informante, sem compromisso, nos termos dos §§ 4º e 5º.' },
+      { r: 'Perguntas complementares', q: 'Gui', t: 'Pela ordem, Excelência, a defesa requer formular perguntas complementares à testemunha que arrolou, nos termos do art. 459 do CPC.' },
+      { r: 'Encerrar', q: 'Gui', t: 'Sem mais perguntas, Excelência.' },
+    ],
+    ver: [
+      { r: 'Testemunha da autora (avó)', pessoa: 'avo' },
+      { r: 'Maria, síndica', pessoa: 'maria' },
+      { r: 'Jacinto, intercessor', pessoa: 'jacinto' },
+    ],
+  },
+  {
+    n: 5, titulo: 'Oitiva dos filhos', quem: 'Os dois anotam', apostila: 'Apostila p. 4 e 10',
+    k: 'oitiva dos filhos, Augusto, Beatriz, criança e adolescente, silêncio, onde querem morar',
+    resumo: 'Só o juiz e o MP perguntam. Silêncio total.',
+    juiz: 'Apenas o juiz e o MP farão perguntas. O juiz pede que os advogados acompanhem sem interrogar.',
+    fazer: [
+      'Anote o que Augusto e Beatriz disserem sobre onde querem morar e sobre o pai.',
+      'Se o Augusto disser que foi empurrado: não confronte. Nenhuma pergunta, nenhuma reação.',
+      'Anote a frase exata e o horário.',
+      'A resposta vem nas alegações: o relato surgiu depois da troca de vítima, o laudo não descreve empurrão e a Maria presenciou a queda.',
+    ],
+    falas: [],
+    ver: [{ r: 'Anotar o que os filhos disseram', tela: 'anotacoes' }],
+  },
+  {
+    n: 6, titulo: 'Conciliação final (Proposta B)', quem: 'Marcos', apostila: 'Apostila p. 4',
+    k: 'conciliação, acordo, proposta B, proposta do requerido, acordo parcial',
+    resumo: 'Ler a proposta. Se não houver acordo integral, tentar acordo parcial.',
+    juiz: 'Abro espaço para conciliação total ou parcial.',
+    fazer: [
+      'Marcos lê a Proposta B.',
+      'Sem acordo integral, tente acordo parcial: divórcio, partilha do apartamento e regras de comunicação.',
+      'O MP opina antes de o juiz homologar acordo (CPC, art. 698).',
+    ],
+    falas: [
+      { r: 'Proposta B', q: 'Marcos', t: 'A proposta do requerido é: divórcio, com averbação; guarda compartilhada dos dois filhos, com residência a ser definida pelo estudo psicossocial e convivência ampla; alimentos aos filhos de 30% dos rendimentos líquidos comprovados, hoje cerca de R$ 2.550, mais metade das despesas extraordinárias de saúde e educação; partilha do apartamento meio a meio, com avaliação; regras fixas de retirada, devolução e comunicação; e desistência da indenização de R$ 50 mil e da desconsideração inversa.' },
+    ],
+    ver: [],
+  },
+  {
+    n: 7, titulo: 'Alegações finais', quem: 'Marcos pede memoriais; plano B dividido', apostila: 'Apostila p. 4 e 23',
+    k: 'alegações finais, sustentação oral, memoriais, razões finais escritas, plano B, 20 minutos, debates orais',
+    resumo: 'Assim que o juiz anunciar as alegações, antes de a autora falar, peça os memoriais.',
+    juiz: 'Sustentação oral: advogada da autora e depois do requerido. O MPE anuncia seu parecer final.',
+    fazer: [
+      'Peça os memoriais antes de a autora começar a falar.',
+      'Se o MP se opuser: o art. 364, § 2º, dá prazo também ao MP; o pedido não prejudica ninguém.',
+      'Se negado, peça que conste em ata e siga o plano B: Marcos abre, Gui no meio, Marcos fecha.',
+      'Alegações: 20 minutos para a defesa inteira. Use o cronômetro.',
+      'Cite o que aconteceu na sala: a fala do MP, dos técnicos, da Maria, do Jacinto e dos filhos.',
+    ],
+    falas: [
+      { r: 'Pedido de memoriais', q: 'Marcos', t: 'Pela ordem, Excelência. Com a devida vênia, antes de passarmos às alegações finais, a defesa tem um requerimento. Considerando a complexidade das questões de fato e de direito e a extensão do conjunto probatório produzido nesta audiência, requer a substituição dos debates orais por razões finais escritas, nos termos do art. 364, § 2º, do CPC, em prazos sucessivos de 15 dias, assegurada vista dos autos.' },
+      { r: 'Se negado', q: 'Marcos', t: 'Respeitosamente, requeiro que conste em ata o indeferimento.' },
+      { r: 'Plano B: abertura', q: 'Marcos', t: 'Encerrada a instrução, o que se vê é uma distância grande entre o que a inicial afirma e o que a prova demonstrou.' },
+      { r: 'Plano B: fecho', q: 'Marcos', t: 'São os termos em que pede deferimento.' },
+    ],
+    ver: [
+      { r: 'Plano B das alegações', atalho: 'alegacoes' },
+      { r: 'Abrir o cronômetro', tela: 'cronometro' },
+      { r: 'Ver as anotações', tela: 'anotacoes' },
+    ],
+  },
+  {
+    n: 8, titulo: 'Sentença', quem: 'Os dois anotam', apostila: 'Apostila p. 4',
+    k: 'sentença, decisão, prazo de recurso, custas, sucumbência',
+    resumo: 'Anote cada item: divórcio, guarda, alimentos, partilha, convivência e custas.',
+    juiz: 'Anuncio sentença: 1. Decreto o divórcio do casal; determino averbação no Cartório. 2. Defiro guarda. 3. Fixo alimentos, como e para quem. 4. Determino que a partilha seja apurada. 5. Determino as visitas ou regras de convivência. 6. Custas conforme sucumbência; intimem-se; abre-se prazo recursal.',
+    fazer: [
+      'Anote item por item: divórcio, guarda, alimentos, partilha, convivência e custas.',
+      'Abre-se prazo de recurso.',
+    ],
+    falas: [],
+    ver: [{ r: 'Abrir as anotações', tela: 'anotacoes' }],
+  },
+];

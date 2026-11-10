@@ -1,0 +1,1306 @@
+UNIVERSIDADE DE MOGI DAS CRUZES                                               AUDIÊNCIA SIMULADA
+
+
+
+
+Apostila da
+D E F E S A D E WAG N E R A LV E S
+
+
+
+
+Defesa
+Divórcio litigioso cumulado com guarda, convivência, alimentos,
+partilha de bens e indenização
+
+
+Juízo                   Vara da Família e das Sucessões de Mogi das Cruzes/SP
+Autora                  Mariana Alves
+Requerido               Wagner Alves
+Defesa                  Marcos Diego Teles Monteiro, OAB/SP nº 444444
+                        Luiz Guilherme P. Ramos da Silva, OAB/SP nº 333333
+Audiência               Quarta-feira, 11 de novembro de 2026
+
+
+
+
+                                                                             USO INTERNO DA DEFESA
+Roteiro, perguntas, pareceres, depoimentos, testemunhas e índice remissivo
+C O M O U S A R E S TA A P O S T I L A
+
+Sumário
+Os números à direita são as páginas desta apostila. Páginas citadas como "Cont." remetem ao PDF
+"Contestação e documentos, Wagner Alves".
+
+1 · O caso                                         2    5 · Wagner                                                    11
+1.1 Quem é quem                                    2    5.1 A sua história                                            11
+1.2 Números de cabeça                              2    5.2 Números que você precisa saber                            12
+2 · Roteiro da audiência                           3    5.3 Como vai acontecer                                        12
+2.1 Roteiro da professora, parte por parte         3    5.4 Perguntas prováveis do juiz                               12
+2.2 Ministério Público: quando fala e como lidar   4    5.5 Perguntas da advogada da Mariana                          12
+3 · Perguntas                                      5    6 · Testemunhas                                               15
+3.1 Mariana: depoimento pessoal                    5    6.1 Maria: A sua história                                     15
+3.2 Tatiane, assistente social                     6    6.2 Maria: Como vai acontecer                                 16
+3.3 Psicólogo judicial (Giovani Patrick)           7    6.3 Maria: Perguntas do juiz                                  16
+3.4 Conselho Tutelar (Ananda Martins)              7    6.4 Maria: Perguntas da defesa                                16
+3.5 Testemunha da autora (provavelmente a avó      8    6.5 Maria: Contra-interrogatório da advogada da               17
+materna)                                                Mariana
+3.6 Nossas testemunhas: perguntas complementares   8    6.6 Jacinto: A sua história                                   18
+                                                        6.7 Jacinto: Como vai acontecer                               18
+4 · Pareceres técnicos                              9   6.8 Jacinto: Perguntas do juiz                                18
+4.1 O problema e a impugnação                       9   6.9 Jacinto: Perguntas da defesa                              19
+4.2 O laudo do Augusto                              9   6.10 Jacinto: Contra-interrogatório da advogada da            19
+4.3 Duas camadas de defesa                          9   Mariana
+4.4 Se o Augusto disser que foi empurrado          10
+                                                        7 · Índice remissivo                                         21
+                                                        7.1 Índice remissivo por tema                                21
+                                                        7.2 Mapa dos documentos da defesa                            22
+                                                        8 · Alegações e frases                                       23
+                                                        8.1 Plano B: alegações finais orais (cerca de 5 minutos)     23
+                                                        8.2 Frases de bolso                                          23
+                                                        8.3 Checklist do dia                                         23
+
+Consulta rápida na audiência
+ SE ACONTECER...                                                                                             VÁ PARA
+ Abertura: o que requerer                                                                                    2.1 · p. 3
+ Impugnar a troca de vítima e os pareceres                                                                   4.1 · p. 9
+ Perguntas para a Mariana                                                                                    3.1 · p. 5
+ Perguntas para o psicólogo                                                                                  3.3 · p. 7
+ Perguntas para o Conselho Tutelar                                                                           3.4 · p. 7
+ Perguntas para a assistente social                                                                          3.2 · p. 6
+ Contradita da testemunha da autora                                                                          3.5 · p. 8
+ O MP falou ou implicou                                                                                     2.2 · p. 4
+ O Augusto disse que foi empurrado                                                                         4.4 · p. 10
+ O que o Wagner deve responder                                                                             5.5 · p. 12
+ Pedir os memoriais (Parte 7)                                                                                2.1 · p. 4
+ Achar um tema na inicial ou na contestação                                                                  7.1 · p. 21
+ Alegações orais (plano B)                                                                                 8.1 · p. 23
+ Objeção, branco, "pela ordem"                                                                             8.2 · p. 23
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                          1/23
+CAPÍTULO 1
+
+O caso
+Resumo, teses, pessoas e números
+                                @@C1@@
+
+
+
+
+   O CASO EM 4 LINHAS                                                                           AS 8 TESES
+   Mariana pede divórcio, guarda unilateral com                                                  1. Divórcio: concordamos (CPC, art. 356, I).
+   visitas supervisionadas, R$ 6.000 para os filhos,                                             2. Guarda compartilhada é a regra (CC, art. 1.584, §
+   R$ 4.100 por 36 meses para ela, partilha, apuração                                               2º); estudo psicossocial antes de qualquer
+   de herança, desconsideração inversa e R$ 50 mil                                                  restrição.
+   de indenização. Valor da causa: R$ 718.700. A                                                 3. Prova da violência é frágil: MP sem notícia formal,
+   defesa concorda com o divórcio e com a partilha                                                  laudo de outra pessoa, testemunha indireta.
+   do apartamento e combate o resto.                                                             4. Renda real: média de R$ 8.500 (Doc. 01); 30% = R$
+                                                                                                    2.550.
+                                                                                                 5. Alimentos à Mariana: ela recebe aluguel e R$
+                                                                                                    547.500 de meação (CC, art. 1.695).
+                                                                                                 6. Herança: ônus dela (CPC, art. 373, I).
+                                                                                                 7. Desconsideração inversa: sem pressupostos (CC,
+                                                                                                    art. 50; CPC, art. 134, § 4º).
+                                                                                                 8. Indenização: a meação já compensa (CC, arts. 886
+                                                                                                    e 1.568).
+
+
+ 1.1     Quem é quem                              @@1.1@@
+
+
+
+
+ PESSOA                                  PAPEL                             OBSERVAÇÃO
+ Mariana Alves                           Autora                            Advogadas Isabella Rocha (OAB/SP 111111) e Madonna dos Reis Santos (OAB/SP
+                                                                           222222)
+ Wagner Alves                            Requerido, nosso                  Engenheiro, sócio da Alves Mendes Engenharia (ME); renda média R$ 8.500 (Doc.
+                                         cliente                           01)
+ Augusto, 15 anos                        Filho                             Laudo médico em nome dele (Provas aut. p. 4); queda de bicicleta em 13/06
+ Beatriz, 9 anos                         Filha                             A inicial dizia que ela se feriu; não há documento médico dela
+ Tatiane Rodriguez                       Assistente social                 Relatório social de 06/11/2026; o Wagner não foi entrevistado
+ Giovani Patrick                         Psicólogo judicial                Manifestação técnica de 09/11/2026 (capítulo 4)
+ Ananda Martins                          Conselho Tutelar                  Manifestação de 10/11/2026 (capítulo 4)
+ Maria                                   Nossa testemunha                  Síndica; viu a queda de bicicleta (capítulo 6)
+ Jacinto                                 Nossa testemunha                  Intercessor do grupo de jovens; viu a pressão da mãe sobre o Augusto (capítulo 6)
+ Marcos                                  Defesa                            OAB/SP 444444: requerimentos, Mariana, conciliação, memoriais
+ Gui                                     Defesa                            OAB/SP 333333: impugnações, técnicos e testemunhas
+
+ 1.2      Números de cabeça                                      @@1.2@@
+
+
+
+
+  R$ 8.500                                                  R$ 2.550                           R$ 547.500                        R$ 6.520
+  renda média do Wagner                                     30% para os filhos                 meação da Mariana                 aluguel que ela recebe
+  (Doc. 01)                                                                                                                      (Doc. 08)
+
+  R$ 348 mil                                                R$ 718.700                         R$ 50 mil                         R$ 10.100
+  faturamento anual da                                      valor da causa                     indenização pedida                soma dos alimentos
+  empresa, não renda                                                                                                             pedidos
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                                2/23
+CAPÍTULO 2
+
+Roteiro da audiência                                           @@C2@@
+
+
+
+
+As 8 partes da professora, quem faz o quê e o Ministério Público
+
+ 2.1      Roteiro da professora, parte por parte                        @@2.1@@
+
+
+
+
+   Parte 1 · Abertura e saneamento                                                            Marcos requer; Gui impugna
+
+   O juiz pergunta que provas cada lado quer produzir e sobre quais fatos.
+       "Bom dia, Excelência. Marcos Teles e Luiz Guilherme, pela defesa do requerido Wagner Alves."
+       "O requerido concorda com o divórcio e requer sua decretação imediata, nos termos do art. 356, inciso I, do
+       CPC. Requer o depoimento pessoal da autora, a oitiva das testemunhas arroladas, a apreciação dos
+       documentos 01 a 08 juntados com a contestação e o estudo psicossocial com entrevista também do
+       requerido."
+   IMPUGNAÇÃO DO "ERRO MATERIAL" (GUI)
+
+       "A defesa impugna a manifestação da autora de 9 de novembro. Não se trata de erro material, mas de
+       alteração da causa de pedir: a inicial narra em detalhes um episódio com a criança Beatriz e agora atribui o
+       fato a outro filho. Após a citação, isso depende do consentimento do réu, nos termos do art. 329, inciso II, do
+       CPC, e o requerido não consente."
+   IMPUGNAÇÃO DOS PARECERES (GUI)
+       "A defesa impugna, ainda, o parecer psicológico e a manifestação do Conselho Tutelar na parte em que
+       tomam como já admitida a alteração da vítima. A correção não foi apreciada por Vossa Excelência e o
+       requerido não consente. Subsidiariamente, se admitida, requer o prazo de 15 dias para manifestação e prova
+       suplementar, previsto no próprio art. 329, inciso II, do CPC, vedada a decisão surpresa, art. 10."
+   Detalhes no capítulo 4.
+   IMPUGNAÇÃO DE DOCUMENTOS (GUI)
+       "A defesa impugna o laudo médico, que é de Augusto e não de Beatriz, e os registros de ligação, que
+       apresentam horários impossíveis: o print das 19h03 exibe ligações até as 20h12. Art. 436, incisos II e IV, do
+       CPC."
+
+
+   Parte 2 · MP, técnicos e conselheira tutelar                                   Marcos anota o MP; Gui anota os técnicos
+
+   O MP deve dizer que não há notícia formal de violência. Anote palavra por palavra. Técnicos: perguntas no
+   capítulo 3, só se o juiz abrir espaço. O juiz fixa os pontos controvertidos: guarda, convivência, alimentos e partilha.
+
+   Parte 3 · Depoimentos pessoais                           Marcos pergunta à Mariana; Gui vigia o depoimento do Wagner
+
+   Mariana: as 10 perguntas do capítulo 3, no formato "é verdade que". Wagner: só a advogada dela pergunta;
+   intervenha apenas com "Pela ordem, Excelência" se houver abuso.
+
+   Parte 4 · Testemunhas                                                                                               Gui
+
+   Primeiro as da autora: contradita da avó antes do compromisso e contra-interrogatório. Depois as nossas: o juiz
+   pergunta, e vocês pedem perguntas complementares.
+       "Pela ordem, Excelência, a defesa requer formular perguntas complementares à testemunha que arrolou, nos
+       termos do art. 459 do CPC."
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                              3/23
+   Parte 5 · Oitiva dos filhos                                                                                                Os dois anotam
+
+   Só o juiz e o MP perguntam. Silêncio total. Anote o que Augusto e Beatriz disserem sobre onde querem morar e
+   sobre o pai.
+
+   Parte 6 · Conciliação final (Proposta B)                                                                                          Marcos
+
+   Ler a proposta. Se não houver acordo integral, tentar acordo parcial.
+       "A proposta do requerido é: divórcio, com averbação; guarda compartilhada dos dois filhos, com residência a
+       ser definida pelo estudo psicossocial e convivência ampla; alimentos aos filhos de 30% dos rendimentos
+       líquidos comprovados, hoje cerca de R$ 2.550, mais metade das despesas extraordinárias de saúde e
+       educação; partilha do apartamento meio a meio, com avaliação; regras fixas de retirada, devolução e
+       comunicação; e desistência da indenização de R$ 50 mil e da desconsideração inversa."
+
+
+   Parte 7 · Alegações finais                 @@MEM@@
+                                                                                                      Marcos pede memoriais; plano B dividido
+
+   Assim que o juiz anunciar as alegações, antes de a autora falar:
+       "Pela ordem, Excelência. Com a devida vênia, antes de passarmos às alegações finais, a defesa tem um
+       requerimento. Considerando a complexidade das questões de fato e de direito e a extensão do conjunto
+       probatório produzido nesta audiência, requer a substituição dos debates orais por razões finais escritas, nos
+       termos do art. 364, § 2º, do CPC, em prazos sucessivos de 15 dias, assegurada vista dos autos."
+   Se negado: "Respeitosamente, requeiro que conste em ata o indeferimento." E segue o plano B (capítulo 8).
+
+   Parte 8 · Sentença                                                                                                         Os dois anotam
+
+   Anote cada item: divórcio, guarda, alimentos, partilha, convivência e custas. Abre-se prazo de recurso.
+
+
+ 2.2       Ministério Público: quando fala e como lidar                                     @@2.2@@
+
+
+
+
+   MOMENTOS DO MP                                                                POSTURA COM A PROMOTORA
+   ✓ Intervém porque há filhos incapazes (CPC, arts.                             ✓ Fale sempre com o juiz, nunca com ela.
+     178, II, e 698).                                                            ✓ Não interrompa. Espere e use "Pela ordem,
+   ✓ Fala depois das partes em cada etapa (art. 179,                               Excelência".
+     I).                                                                         ✓ Não discuta: "Requeiro que conste em ata."
+   ✓ Pode requerer provas e medidas (art. 179, II).                              ✓ Se agir como parte: "A defesa confia na
+   ✓ Pergunta às testemunhas depois das partes;                                    atuação imparcial do Ministério Público como
+     aos filhos, junto com o juiz.                                                 fiscal da ordem jurídica."
+   ✓ Opina antes de homologar acordo (art. 698).                                 ✓ Quem responde a ela é o Marcos.
+   ✓ Fala por último nas alegações (art. 364). Nos                               ✓ Se ela disser que não há notícia formal de
+     memoriais, também tem prazo (§ 2º).                                           violência: peça na hora que conste em ata.
+
+ SE ELA...                        RESPOSTA
+ Se opuser aos                    O art. 364, § 2º, dá prazo também ao MP; o pedido não prejudica ninguém.
+ memoriais
+ Impugnar pergunta                Motivação dos pedidos de alimentos, partilha e indenização. Se indeferida, retire e siga.
+ à Mariana
+ Opinar por guarda                Não rebata na hora. Nas alegações: compartilhada é a regra, estudo psicossocial e pai não entrevistado.
+ unilateral
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                 4/23
+CAPÍTULO 3
+
+Perguntas                                     @@C3@@
+
+
+
+
+Mariana, assistente social, psicólogo, Conselho Tutelar e testemunhas
+
+   REGRAS PARA TODAS AS PERGUNTAS                                         SE HOUVER OBJEÇÃO OU INDEFERIMENTO
+   ✓ Uma pergunta por vez, curta e fechada: "é                            "Excelência, a pergunta diz respeito à motivação
+     verdade que...?"                                                     dos pedidos de alimentos, partilha e indenização,
+   ✓ Pausa depois de cada pergunta. Não discuta a                         que são pontos controvertidos fixados por Vossa
+     resposta: "Obrigado." e siga.                                        Excelência."
+   ✓ Pare assim que tiver a resposta que interessa.                       Se o juiz cortar: "Retiro a pergunta, Excelência."
+   ✓ Nunca faça pergunta cuja resposta você não                           Se quiser registrar: "Requeiro que conste em ata o
+     sabe.                                                                indeferimento."
+
+Fontes: PI = petição inicial; Provas aut. = provas da autora (8 p.); Doc. = documentos da defesa; Rel. = relatório social.
+
+ 3.1      Mariana: depoimento pessoal                     @@3.1@@
+
+
+
+
+Formato da professora: "Sra. Mari, é verdade que...?". As quatro primeiras desestabilizam; as do meio expõem
+o lado financeiro; a última fecha com o ponto mais forte.
+
+   1      Sra. Mari, a senhora ainda tem sentimentos pelo Wagner?                   PROVOCATIVA
+
+   OBJETIVO Armadilha: se sim, por que um processo tão duro? Se não, por que falar                     FONTE Doc. 06 ("vida", "te
+   de traição?                                                                                         amo")
+
+   2 A senhora mencionou na petição uma possível traição do Wagner. Isso ainda a machuca?
+       PROVOCATIVA
+
+   OBJETIVO Expor ressentimento como motor da ação                  FONTE PI p. 3
+
+
+   3 A senhora pretende se vingar do Wagner por meio de R$ 718.700?                           PROVOCATIVA
+
+   OBJETIVO Dizer o valor da causa em voz alta. Fale o número devagar.                FONTE PI p. 21
+
+
+   4 A senhora está cobrando R$ 50 mil pelos 15 anos em que cuidou da própria casa e dos próprios
+   filhos. A senhora vê o seu casamento como um investimento que agora quer de volta? PROVOCATIVA
+   OBJETIVO O "cashback" em versão técnica             FONTE PI p. 14
+
+
+   5 A assistente social encontrou a suíte do casal com cama de casal e guarda-roupa duplo. É verdade
+   que a senhora e o Wagner ainda dividem esse quarto? PROVOCATIVA
+   OBJETIVO Derrubar a narrativa de quartos separados há mais de um ano                 FONTE Rel. item 3; PI p. 3
+   Se disser que não: "Então quem usa a suíte do casal?" e pare.
+
+   6 É verdade que, sobre a renda do Wagner, a senhora mesma escreveu que "não possui certeza sobre
+   o valor"?
+   OBJETIVO Derrubar os R$ 20 mil com as palavras dela               FONTE PI p. 10
+
+
+   7 É verdade que a senhora disse ao Wagner: "Não preciso do seu dinheiro. Recebi o valor do aluguel"?
+   OBJETIVO Renda própria: afasta gratuidade e alimentos              FONTE Doc. 07 e Doc. 08
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                         5/23
+   8 É verdade que a senhora vai receber R$ 547.500 na partilha e, mesmo assim, pede R$ 4.100 de
+   pensão por mês?
+   OBJETIVO Afastar o art. 1.695 do CC (ela terá bens suficientes)          FONTE PI p. 8 e 11
+
+
+   9 É verdade que, no dia 15 de maio, os seus filhos estavam com o próprio pai e voltaram para casa no
+   mesmo dia?
+   OBJETIVO Esvaziar a ideia de "sumiço"      FONTE PI p. 4; Doc. 04 e 05
+
+
+   10 Sra. Mari, na sua petição a senhora disse que quem se machucou foi a Beatriz, de nove anos. Agora
+   diz que foi o Augusto, de quinze. Qual das duas versões é a verdadeira? PROVOCATIVA
+   OBJETIVO Credibilidade: duas versões para o mesmo fato           FONTE PI p. 3; manifestação de 09/11; Provas aut. p. 4
+   Se ela disser que o Wagner machucou o Augusto: "É verdade que a sua petição inicial não fala em nenhuma lesão do
+   Augusto?" e pare. A Maria desmonta a versão em seguida.
+
+Reserva (use se sobrar tempo ou se alguma acima for indeferida):
+   R1 É verdade que a senhora acusa o Wagner de desviar uma herança cujo valor e cuja data a senhora
+   não sabe dizer?
+   OBJETIVO Ônus da prova é dela (CPC, art. 373, I)         FONTE PI p. 6
+
+
+   R2 É verdade que a senhora usava o cartão de crédito do Wagner no dia a dia?
+   OBJETIVO Contribuições recíprocas: enfraquece a indenização              FONTE Doc. 06
+
+  Não pergunte sobre faculdades mentais nem "má-fé ou manipulação". Isso vai para as alegações ou memoriais.
+
+ 3.2       Tatiane, assistente social           @@3.2@@
+
+
+
+
+Perguntas de confirmação: ela só precisa dizer que está no relatório. Leve o relatório impresso.
+
+   T1 Sra. Tatiane, no relatório a senhora descreveu o imóvel como simples, sem corresponder à
+   expectativa criada pelas informações patrimoniais da petição. Confirma?
+   OBJETIVO Enfraquecer a renda de R$ 20 mil e o valor de R$ 1 milhão            FONTE Rel. item 3
+
+
+   T2 A senhora registrou uma suíte utilizada pelo casal, com cama de casal e guarda-roupa duplo?
+   OBJETIVO Contradiz os quartos separados            FONTE Rel. item 3
+
+
+   T3 Durante a visita, o Wagner foi entrevistado?
+   OBJETIVO Avaliação incompleta: só a autora foi ouvida         FONTE Rel. itens 1 e 3
+
+
+   T4 A senhora registrou uma divergência entre a petição, que fala da Beatriz, e o laudo médico, que é do
+   Augusto?
+   OBJETIVO Confirmação técnica da falha da prova           FONTE Rel. item 4
+
+
+   T5 A senhora encontrou nos autos algum documento médico em nome da Beatriz?
+   OBJETIVO Fechar o ponto: não há laudo da Beatriz          FONTE Rel. item 4
+
+  Ordem sugerida: T1, T3, T2, T4, T5. Termine nas divergências, para o ponto ficar fresco para as alegações.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                  6/23
+ 3.3       Psicólogo judicial (Giovani Patrick)                            @@3.3@@
+
+
+
+
+O parecer usa só verbos no condicional ("teria", "conforme relatado") e admite que não fez avaliação própria.
+Objetivo: mostrar que ele repetiu a versão da autora.
+   P1 O senhor ouviu o Augusto pessoalmente? Em que data, onde e com quem presente?
+   OBJETIVO Testar o "segundo o adolescente Augusto"                      FONTE Parecer, p. 1
+
+
+   P2 Foi escuta especializada, nos termos da Lei 13.431/2017, ou uma conversa informal?
+   OBJETIVO Fragilidade do relato
+
+
+   P3 O senhor ouviu o Wagner em algum momento?
+   OBJETIVO Avaliação unilateral
+
+
+   P4 Seu parecer é de 9 de novembro, mesma data da manifestação da autora. Ele foi feito com base
+   nessa manifestação?
+   OBJETIVO Ligar o parecer à troca de vítima                FONTE Parecer, p. 5
+
+
+   P5 O senhor confirma que não realizou avaliação psicológica própria, como consta do seu parecer?
+   OBJETIVO Parecer sem avaliação                   FONTE Parecer, p. 4
+
+
+   P6 O senhor confirma que a declaração da rede municipal não permite diagnóstico nem concluir
+   sofrimento ligado aos fatos?
+   OBJETIVO Esvaziar a prova da autora                  FONTE Parecer, p. 4; Provas aut. p. 8
+
+
+   P7 O senhor escreve que a resistência da criança não deve ser atribuída automaticamente à influência
+   materna. Concorda que também não deve ser atribuída automaticamente à violência paterna?
+   OBJETIVO Equilíbrio; abrir espaço para a alienação                FONTE Parecer, p. 2
+
+
+ 3.4       Conselho Tutelar (Ananda Martins)                                   @@3.4@@
+
+
+
+
+A manifestação é quase toda favorável. Perguntas de confirmação: ela só precisa dizer que está escrito.
+   C1 O Conselho considerou a correção da vítima como já admitida. A senhora sabe se o juízo decidiu
+   sobre ela?
+   OBJETIVO Técnico não admite alteração da causa de pedir                               FONTE Manifestação, p. 1 e 5
+
+
+   C2 A senhora confirma que o laudo não indica data, mecanismo nem autor da lesão?
+   OBJETIVO Laudo compatível com a bicicleta                  FONTE Manifestação, p. 2; Provas aut. p. 4
+
+
+   C3 A senhora confirma que os ingressos dão suporte à versão do jogo?
+   OBJETIVO Fecha o 15 de maio                   FONTE Manifestação, p. 3; Doc. 05
+
+
+   C4 O Conselho recomenda estudo com os dois genitores. O Wagner já foi ouvido por algum técnico?
+   OBJETIVO Pai nunca ouvido                   FONTE Manifestação, p. 4
+
+
+   C5 A senhora confirma que o Conselho recomenda não separar os irmãos?
+   OBJETIVO Tese da defesa                    FONTE Manifestação, p. 5
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                             7/23
+   C6 A senhora confirma que a supervisão das visitas só foi recomendada "caso identificada sua
+   necessidade"?
+   OBJETIVO Afastar supervisão automática                     FONTE Manifestação, p. 5
+
+
+ 3.5       Testemunha da autora (provavelmente a avó materna)                                            @@3.5@@
+
+
+
+
+Contradita antes do compromisso:
+   "Excelência, a defesa contradita a testemunha, por ser mãe da autora, com fundamento no art. 447, § 2º,
+   inciso I, do CPC. Caso Vossa Excelência entenda necessária a oitiva, requer que seja ouvida como
+   informante, sem compromisso, nos termos dos §§ 4º e 5º."
+
+   A1 É verdade que a senhora passou a morar no apartamento depois dos episódios narrados?
+   OBJETIVO Testemunho indireto                   FONTE PI p. 4
+
+
+   A2 É verdade que a senhora não estava presente quando a sua filha diz ter sido empurrada?
+   OBJETIVO Não presenciou                    FONTE PI p. 3
+
+
+   A3 É verdade que a senhora também não estava quando a Beatriz caiu?
+   OBJETIVO Não presenciou                    FONTE PI p. 3 e 4
+
+
+   A4 Então, o que a senhora sabe desses fatos foi a sua filha quem contou?
+   OBJETIVO Fechar: só sabe o que ouviu
+
+
+   A5 É verdade que, desde que a senhora mora lá, nunca presenciou agressão física do Wagner?
+   OBJETIVO Ausência de violência atual                  FONTE Rel. item 3
+
+
+ 3.6       Nossas testemunhas: perguntas complementares                                        @@3.6@@
+
+
+
+
+Depois do juiz: "Pela ordem, Excelência, a defesa requer formular perguntas complementares à testemunha
+que arrolou, nos termos do art. 459 do CPC." As respostas esperadas estão nas fichas de cada uma.
+
+   MARIA, SÍNDICA                                                             JACINTO, INTERCESSOR
+   1. A senhora presenciou o acidente do Augusto?                              1. O pai já procurou o senhor? Para quê?
+   2. Como ficou o braço dele?                                                 2. O que o senhor recomendou a ele?
+   3. Quem levou o Augusto ao médico?                                          3. O senhor já presenciou alguma situação entre o
+   4. Esse acidente foi registrado?                                               Augusto e a mãe durante as atividades?
+   5. Desde quando a mãe da Sra. Mariana mora no                               4. Como o Augusto ficou depois disso?
+      apartamento?                                                             5. O Augusto falou sobre isso em algum
+   6. Como a senhora vê o Wagner com os filhos?                                   momento?
+                                                                               6. O senhor já viu o Wagner agressivo?
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                    8/23
+CAPÍTULO 4
+
+Pareceres técnicos
+Psicólogo judicial e Conselho Tutelar: o que dizem e como responder
+                                                                                  @@C4@@
+
+
+
+
+   PSICÓLOGO · 09/11/2026                                                                  CONSELHO TUTELAR · 10/11/2026
+   ✓ Repete a inicial com verbos no condicional.                                           ✓ Toma a correção da vítima como resolvida.
+   ✓ Escreve "segundo o adolescente Augusto":                                              ✓ Laudo não define mecanismo nem autoria;
+     empurrado ao defender a mãe, bateu o braço                                              "sem presumir autoria".
+     num móvel.                                                                            ✓ Ingressos confirmam o jogo.
+   ✓ Admite que não fez avaliação própria.                                                 ✓ Sem elementos para definir a residência.
+   ✓ Diz que a declaração municipal não permite                                            ✓ Estudo com os dois pais, irmãos juntos, regras
+     diagnóstico.                                                                            de retirada.
+   ✓ Supervisão só "poderá ser avaliada".
+
+
+ 4.1      O problema e a impugnação                                     @@4.1@@
+
+
+
+
+Os dois trataram como resolvida uma manifestação unilateral da autora que o juiz ainda não apreciou. A
+própria manifestação diz que a vítima é Augusto "conforme as provas documentais apresentadas": a narrativa
+foi ajustada ao laudo, e não o contrário.
+
+   CPC, art. 329, II: até o saneamento, alterar o pedido e a causa de pedir, com consentimento do réu,
+   assegurado o contraditório no prazo mínimo de 15 dias, facultada prova suplementar.
+FALA PRONTA (GUI, NA PARTE 1)
+
+   "A defesa impugna o parecer psicológico e a manifestação do Conselho Tutelar na parte em que tomam
+   como já admitida a alteração da vítima. Não houve decisão do juízo sobre a manifestação de 9 de
+   novembro e o requerido não consente, nos termos do art. 329, inciso II, do CPC. Subsidiariamente, se Vossa
+   Excelência admitir a alteração, requer o prazo de 15 dias para manifestação e prova suplementar previsto
+   no mesmo dispositivo, vedada a decisão surpresa, art. 10 do CPC."
+
+ 4.2       O laudo do Augusto                       @@4.2@@
+
+
+
+
+   ✓ Sem data.                                                                             ATENÇÃO
+   ✓ Sem mecanismo da lesão: não fala em                                                   A Maria não diz "pronto-socorro". Ela diz que a
+     empurrão nem em móvel.                                                                Mariana desceu e levou o Augusto "para ser
+   ✓ Consultório de clínico geral, não pronto-                                             atendido". O mesmo vale para o Wagner.
+     socorro.
+   ✓ Compatível com queda de bicicleta.
+
+
+ 4.3       Duas camadas de defesa                             @@4.3@@
+
+
+
+
+ CAMADA                           ARGUMENTO                                                                                   BASE
+ Processual                       A troca de vítima é alteração da causa de pedir, não erro material; o réu não consente.     CPC, art. 329, II
+ Subsidiária                      Se admitida, prazo de 15 dias e prova suplementar; reforça o pedido de memoriais.           CPC, arts. 329, II, e
+                                                                                                                              10
+ De fato                          Mesmo se o juiz considerar o episódio na guarda, a Maria viu a queda de bicicleta em        CC, art. 1.586; ECA,
+                                  13/06 e o laudo não fala em empurrão.                                                       art. 100
+Em guarda, o juiz decide pelo melhor interesse e pode considerar provas fora do pedido. Por isso a camada de fato é
+essencial.
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                       9/23
+ 4.4       Se o Augusto disser que foi empurrado           @@4.4@@
+
+
+
+
+✕ Não confronte o Augusto. Nenhuma pergunta, nenhuma reação.
+✕ Anote a frase exata e o horário.
+✓ Resposta nas alegações: o relato surgiu depois da troca de vítima; o laudo não descreve empurrão; a Maria
+  presenciou a queda.
+✓ Peça o estudo psicossocial com escuta especializada (Lei 13.431/2017) e entrevista do pai.
+✓ Lembre o Jacinto: o Augusto disse que se sente "dividido" e que a mãe diz que ele não pode deixá-la
+  sozinha.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                              10/23
+CAPÍTULO 5
+
+Wagner                               @@C5@@
+
+
+
+
+Orientação para o depoimento pessoal do requerido
+
+   QUEM VOCÊ É                                                SUA MISSÃO EM 4 PONTOS
+   Nome                  Wagner Alves, 40 anos                1. Mostrar um pai presente, que quer guarda
+   CPF                   666.777.888-99                          compartilhada e aceita o estudo psicossocial.
+   Profissão             Engenheiro; sócio (50%) da Alves     2. Dizer que ganha em média R$ 8.500 por mês
+                         Mendes Engenharia e Projetos Ltda.      (DECORE), não R$ 20 mil.
+                         (ME)                                 3. Negar qualquer agressão intencional, com
+   Endereço              Rua Otoni Martins, 300, Parque          calma e sem atacar a Mariana.
+                         Monte Líbano, Mogi das Cruzes/SP     4. Concordar com o divórcio e com a divisão do
+                         (mesmo apartamento da família)          apartamento.
+   Família               Casado há 15 anos com Mariana;
+                         filhos Augusto (15) e Beatriz (9)
+
+ 5.1      A sua história                      @@5.1@@
+
+
+
+
+Ela precisa bater com a contestação e com as testemunhas Maria e Jacinto. Guarde as datas.
+       DURANTE O CASAMENTO
+       Vocês decidiram juntos que a Mariana cuidaria da casa.
+       Ela usava os seus cartões e participava das viagens da família. Você também ajudava em casa.
+       ÚLTIMOS DOIS ANOS
+       Discussões frequentes.
+       Em algumas, ela avançou em você, e você segurou os braços dela para se afastar. Objetos caíram na
+       confusão; ninguém quebrou nada de propósito.
+       EM UMA DAS DISCUSSÕES
+       A Beatriz entrou de repente, esbarrou em vocês dois e caiu.
+       Não se machucou e não reclamou de dor.
+       ABRIL DE 2026
+       Você ofereceu pagar um psicólogo particular para os filhos.
+       Ela respondeu que não precisava do seu dinheiro, porque tinha recebido o aluguel (Doc. 07 e Doc. 08).
+       15 DE MAIO DE 2026
+       Jogo Corinthians x Palmeiras, 18h30, Neo Química Arena.
+       Os ingressos saíram às 10h42 (Doc. 05). Você buscou os filhos na escola às 16h, se identificou, e voltou à
+       noite. A Maria viu vocês chegando de camisa do Corinthians. Você não avisou a mãe e não atendeu o
+       telefone: reconheça que errou.
+       13 DE JUNHO DE 2026
+       O Augusto caiu de bicicleta na rampa da garagem do prédio.
+       Machucou o braço (nunca diga "quebrou"). A Maria viu, e a Mariana levou ele para ser atendido.
+       AGOSTO DE 2026
+       Você procurou o Jacinto, intercessor do grupo de jovens, depois da missa.
+       Queria se aproximar do Augusto. Ele indicou o Encontro de Casais com Cristo. No mesmo mês, a sua sogra
+       se mudou para o apartamento.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                      11/23
+ 5.2       Números que você precisa saber                                 @@5.2@@
+
+
+
+
+  R$ 8.500                                    R$ 348 mil                                      R$ 2.550                      R$ 10.100
+  Sua renda média mensal                      Faturamento anual do                            Sua proposta de pensão        O que a Mariana pede por
+  líquida (pró-labore mais                    escritório. É da empresa,                       aos filhos: 30% do líquido.   mês (filhos mais ela). Mais
+  lucros), conforme a                         não seu.                                                                      do que você ganha.
+  DECORE.
+
+ 5.3       Como vai acontecer                       @@5.3@@
+
+
+
+
+  1                                           2                                               3                             4
+  Você pode ter que sair da                   O juiz pode fazer                               A advogada da Mariana         Seus advogados não
+  sala enquanto a Mariana                     perguntas a você.                               pergunta: "Sr. Wagner, é      perguntam a você. Se
+  depõe (CPC, art. 385, §                                                                     verdade que...?"              houver abuso, eles
+  2º).                                                                                                                      intervêm.
+Responda a todas as perguntas. Se você se recusar a responder, o juiz pode considerar o fato como confessado (CPC, art.
+385, § 1º).
+
+ 5.4       Perguntas prováveis do juiz                         @@5.4@@
+
+
+
+
+   J1 O senhor concorda com o divórcio?
+   RESPOSTA "Concordo, Excelência. O casamento acabou."
+
+
+   J2 O senhor aceita o estudo psicossocial?
+   RESPOSTA "Aceito e peço que seja feito. Quero que os meus filhos sejam ouvidos por quem entende."
+
+
+   J3 Como é a sua rotina com os filhos?
+   RESPOSTA Conte com naturalidade: escola, jogos do Corinthians com o Augusto, a área de lazer com a
+   Beatriz, o apoio ao EJC. (Combinar os detalhes.)
+
+ 5.5       Perguntas da advogada da Mariana                                         @@5.5@@
+
+
+
+
+Respire, ouça a pergunta inteira e responda curto. Nunca discuta com ela.
+
+   A1 É verdade que o senhor empurrou a Mariana contra a parede?
+   RESPOSTA "Não. Numa discussão ela veio para cima de mim, e eu segurei os braços dela para me afastar.
+   Nunca quis machucá-la."
+
+   A2 E os hematomas no braço dela?
+   RESPOSTA "Eu segurei os braços dela para me afastar. Não tive intenção de machucar."
+
+
+   A3 É verdade que o senhor quebrou objetos para intimidá-la?
+   RESPOSTA "Não. Coisas caíram na confusão da discussão. Ninguém quebrou nada de propósito."
+
+
+   A4 É verdade que o senhor empurrou a Beatriz?
+   RESPOSTA "Não. Ela entrou de repente, esbarrou em nós dois e caiu. Não se machucou."
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                          12/23
+   A5 Como o Augusto machucou o braço? Não foi o senhor?
+   RESPOSTA "Não. Ele caiu de bicicleta na garagem do prédio, em junho. A Mariana levou ele para ser
+   atendido."
+   Pergunta-chave. A versão tem que ser idêntica à da Maria.
+
+   A6 O senhor sumiu com as crianças e não atendeu o telefone?
+   RESPOSTA "Levei os dois ao jogo do Corinthians, os ingressos estão no processo. Errei em não avisar a mãe
+   e em não atender, e me comprometo a avisar sempre."
+
+   A7 Os ingressos são das 10h42. Por que não avisou a mãe antes?
+   RESPOSTA "Era para ser surpresa para as crianças. Errei, já reconheci."
+
+
+   A8 Quem é Pedro da Silveira, que aparece nos ingressos?
+   RESPOSTA (Combinar.) Sugestão: "Um amigo que tinha os lugares e me cedeu."
+
+
+   A9 Camarote, com uma renda de R$ 8.500?
+   RESPOSTA "Cada ingresso custou R$ 20, está impresso no ingresso. Foi cortesia de um amigo."
+
+
+   A10 É verdade que o senhor disse que ela "ia ver o que era ficar sem os filhos"?
+   RESPOSTA "Não. Nunca disse isso."
+
+
+   A11 O senhor acha a terapia dos filhos uma bobagem?
+   RESPOSTA "Não. Eu apoio. Até me ofereci para pagar um psicólogo particular, está na conversa juntada no
+   processo."
+
+   A12 É verdade que o senhor ganha R$ 20 mil por mês?
+   RESPOSTA "Não. Recebo pró-labore e a minha parte do lucro: em média R$ 8.500 por mês, como mostra a
+   declaração do contador."
+
+   A13 Mas o escritório fatura bem mais, não?
+   RESPOSTA "O escritório fatura cerca de R$ 348 mil por ano, mas isso é da empresa. Paga imposto,
+   funcionário, aluguel, software. O que sobra para mim é o que está na DECORE."
+
+   A14 O senhor usou a herança dela no escritório?
+   RESPOSTA "Não. Nunca recebi esse dinheiro e nem sei quanto ela recebeu."
+
+
+   A15 O Civic foi comprado com dinheiro do casal?
+   RESPOSTA "Comprei com o dinheiro da venda do carro que eu tinha antes de casar. Tenho os documentos."
+
+
+   A16 Por que quer os filhos morando com o senhor, se o Augusto quer a mãe?
+   RESPOSTA "Quero o que for melhor para eles. Peço que os dois sejam ouvidos e aceito o resultado do
+   estudo psicossocial. Só não quero que os irmãos sejam separados."
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                  13/23
+   A17 O senhor teve um relacionamento fora do casamento?
+   RESPOSTA "Isso não tem relação com os meus filhos. O divórcio eu já aceitei."
+
+   Não entre em detalhes. Seus advogados pedem a palavra se insistirem.
+
+   A18 O senhor e a Mariana ainda dividem a suíte do casal?
+   RESPOSTA (Combinar com a equipe e com a pergunta que os advogados farão à Mariana.)
+
+
+
+   NÃO DIGA                                                     POSTURA
+   ✕ Nada contra a Mariana como mãe ou como                     ✓ Calmo, voz baixa, respostas curtas.
+     pessoa.                                                    ✓ Olhe para o juiz ao responder.
+   ✕ "Legítima defesa": é termo dos advogados.                  ✓ Não sabe? "Não sei." Não lembra? "Não
+     Diga "segurei os braços para me afastar".                    lembro."
+   ✕ Que o braço do Augusto "quebrou".                          ✓ Admita o erro do dia 15/05 sem rodeios: isso dá
+   ✕ Números diferentes da DECORE.                                credibilidade.
+   ✕ Que vai "tirar" os filhos da mãe.                          ✓ Fale dos filhos com carinho. É o que o juiz vai
+   ✕ Detalhes sobre traição.                                      observar.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                     14/23
+CAPÍTULO 6
+
+Testemunhas
+Maria, a síndica, e Jacinto, o intercessor
+                                                        @@C6@@
+
+
+
+
+TESTEMUNHA 1
+
+Maria, síndica
+   QUEM VOCÊ É                                                   SUA MISSÃO EM 4 PONTOS
+   Nome                  Maria                                   1. Contar que o Augusto machucou o braço
+   CPF                   333.666.444-99                             caindo de bicicleta, na sua frente.
+   Profissão             Síndica                                 2. Dizer que não há nenhum registro de briga ou
+   Endereço              Rua Otoni Martins, 300, Parque             barulho no apartamento.
+                         Monte Líbano, Mogi das Cruzes/SP,       3. Mostrar que o Wagner é um pai presente.
+                         CEP 08780-550                           4. Dizer que a mãe da Mariana só se mudou para
+   No prédio             Síndica há 6 anos; mora no                 lá em agosto.
+                         condomínio há 15 anos, o mesmo da
+                         família
+   Relação               Conhece a família como moradores,
+                         sem amizade próxima. Nunca
+                         frequentou a casa deles
+
+ 6.1      Maria: A sua história               @@6.1@@
+
+
+
+
+Só o que você viu pessoalmente ou o que está registrado no condomínio. Guarde as datas.
+      SEMPRE
+      No livro de ocorrências não há nenhuma reclamação de briga, gritos ou objetos quebrados envolvendo
+      esse apartamento.
+      Você vê o Wagner com frequência levando os filhos, na área de lazer com a Beatriz e conversando com o
+      Augusto na portaria. Sempre tranquilo.
+      15 DE MAIO DE 2026, À NOITE
+      Você viu o Wagner chegar com os dois filhos.
+      Os três de camisa do Corinthians, conversando e rindo.
+      SÁBADO, 13 DE JUNHO DE 2026, POR VOLTA DAS 16H
+      O Augusto caiu de bicicleta na rampa da garagem.
+      Você estava na garagem vistoriando uma infiltração com o zelador. Ele perdeu o controle na curva e caiu
+      sobre o braço. Você correu para ajudar. O braço ficou roxo e começou a inchar.
+      LOGO EM SEGUIDA
+      Você interfonou para o apartamento, e quem desceu foi a própria Mariana.
+      Ela levou o filho para ser atendido pelo médico. Você registrou o acidente no livro de ocorrências, como faz
+      com todo acidente nas áreas comuns. Nas semanas seguintes, viu o Augusto andando de tipoia.
+      AGOSTO DE 2026
+      Pelo cadastro da portaria, a mãe da Mariana se mudou para o apartamento.
+Atenção: diga que o Augusto "machucou" o braço, nunca que "quebrou". O laudo médico não fala em fratura.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                        15/23
+ 6.2       Maria: Como vai acontecer                                @@6.2@@
+
+
+
+
+  1                                           2                                     3                            4
+  O juiz toma o seu                           O juiz faz as perguntas               Se o juiz deixar, a defesa   A advogada da Mariana
+  compromisso de dizer a                      dele.                                 faz perguntas                faz o contra-
+  verdade.                                                                          complementares.              interrogatório.
+
+ 6.3       Maria: Perguntas do juiz                       @@6.3@@
+
+
+
+
+   J1 A senhora conhece as partes de onde?
+   RESPOSTA "Sou síndica do prédio onde eles moram há seis anos. Conheço como moradores."
+
+
+   J2 Tem amizade com algum deles?
+   RESPOSTA "Não. Trato todos os moradores do mesmo jeito."
+
+
+   J3 O que a senhora sabe sobre os fatos?
+   RESPOSTA "No dia 13 de junho, um sábado à tarde, eu estava na garagem e vi o Augusto cair de bicicleta na
+   rampa. Ele caiu sobre o braço, que ficou roxo e inchado. Interfonei para o apartamento, a Mariana desceu e
+   levou ele para ser atendido. Registrei no livro de ocorrências. Fora isso, nunca houve reclamação de briga
+   ou barulho nesse apartamento."
+
+   J4 Algum vizinho já reclamou de gritos ou barulho nesse apartamento?
+   RESPOSTA "Nunca. Está tudo no livro de ocorrências."
+
+
+ 6.4       Maria: Perguntas da defesa                                     @@6.4@@
+
+
+
+
+Feitas pelos advogados do Wagner, se o juiz permitir.
+   D1 A senhora presenciou o acidente do Augusto?
+   RESPOSTA "Sim. Eu estava na garagem e vi ele cair."
+
+
+   D2 Como ficou o braço dele?
+   RESPOSTA "Roxo e inchado. Depois ele andou umas semanas de tipoia."
+
+
+   D3 Quem levou o Augusto ao médico?
+   RESPOSTA "A mãe dele, a Mariana. Fui eu que interfonei."
+
+
+   D4 Esse acidente foi registrado?
+   RESPOSTA "Sim, no livro de ocorrências do condomínio."
+
+
+   D5 A senhora sabe desde quando a mãe da Sra. Mariana mora no apartamento?
+   RESPOSTA "Desde agosto, pelo cadastro da portaria."
+
+
+   D6 Como a senhora vê o Wagner com os filhos?
+   RESPOSTA "Um pai presente. Sempre vejo ele com as crianças."
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                              16/23
+ 6.5       Maria: Contra-interrogatório da advogada da Mariana                   @@6.5@@
+
+
+
+
+É a parte mais difícil. Respire, ouça a pergunta inteira e responda curto.
+
+   C1 A senhora sabe o que acontece dentro do apartamento?
+   RESPOSTA "Não. Falo do que vejo nas áreas comuns e do que está registrado."
+
+
+   C2 A senhora é amiga do Wagner?
+   RESPOSTA "Não. Conheço como conheço todos os moradores."
+
+
+   C3 Quem pediu para a senhora vir aqui?
+   RESPOSTA "O Wagner me pediu para contar o que eu sei, e estou contando."
+
+
+   C4 Como a senhora sabe que é o mesmo machucado do laudo?
+   RESPOSTA "Não sei de laudo. Sei que ele caiu na minha frente e depois andou de tipoia."
+
+   Resposta-chave. Não tente explicar o laudo.
+
+   C5 O Augusto se machucou em outra ocasião?
+   RESPOSTA "Que eu saiba, não."
+
+
+   C6 A falta de registro prova que não houve violência?
+   RESPOSTA "Não posso dizer o que aconteceu lá dentro. Posso dizer que nunca houve reclamação."
+
+
+   C7 O que a senhora acha da Mariana?
+   RESPOSTA "Sempre foi educada comigo. Não tenho nada contra ela."
+
+
+
+   NÃO DIGA                                                 POSTURA
+   ✕ O que acontece dentro do apartamento.                  ✓ Calma, respostas curtas.
+   ✕ Que o braço do Augusto "quebrou".                      ✓ Olhe para o juiz ao responder.
+   ✕ Sua opinião sobre quem tem razão no divórcio.          ✓ Não sabe? "Não sei." Não lembra? "Não
+   ✕ Qualquer crítica à Mariana.                              lembro."
+   ✕ Detalhes que você não viu pessoalmente.                ✓ Nunca discuta com a advogada da Mariana.
+                                                            ✓ Sua força é a neutralidade de síndica.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                              17/23
+TESTEMUNHA 2
+Jacinto, intercessor
+   QUEM VOCÊ É                                                                       SUA MISSÃO EM 3 PONTOS
+   Nome                  Jacinto                                                      1. Mostrar que o Wagner é um pai presente e que
+   CPF                   888.999.444-55                                                  procurou se aproximar do filho.
+   Profissão             Administrador                                                2. Contar a pressão da mãe sobre o Augusto que
+   Endereço              Av. Dom Paulo Rolim Loureiro, 500,                              você viu e ouviu pessoalmente.
+                         Vila Oliveira, Mogi das Cruzes/SP,                           3. Dizer que nunca viu o Wagner agressivo.
+                         CEP 08790-260
+   Na igreja             Intercessor do grupo de jovens da
+                         Paróquia Nossa Senhora do Socorro
+                         há 5 anos; acompanha todas as
+                         reuniões
+   Relação               Conhece o Augusto há 2 anos, pelo
+                         grupo. Conhece os pais pela
+                         comunidade, sem amizade próxima
+
+ 6.6       Jacinto: A sua história                     @@6.6@@
+
+
+
+
+Só o que você viu e ouviu pessoalmente. Guarde as datas e a ordem dos fatos.
+      SEMPRE
+      Como intercessor, você acompanha todas as reuniões do grupo.
+      O Wagner às vezes leva e busca o Augusto e esteve na missa de encerramento do último EJC.
+      AGOSTO DE 2026
+      Depois de uma missa, o Wagner procurou você.
+      Disse que o filho falava muito bem de você e que queria se aproximar do Augusto e participar mais da vida
+      dele. Você recomendou o Encontro de Casais com Cristo.
+      SETEMBRO DE 2026, REUNIÃO DE SÁBADO
+      O celular do Augusto tocou várias vezes. Era a mãe.
+      Ele saiu da sala, demorou, voltou abalado, com os olhos vermelhos, e não quis mais participar da atividade.
+      NO FIM DA MESMA REUNIÃO
+      Na roda de conversa, na frente de todos os jovens, o Augusto falou.
+      Disse que se sentia "dividido", que a mãe falava que ele "não podia deixá-la sozinha" e que, se fosse com
+      o pai, ela ia "ficar sem ninguém".
+A roda de conversa foi aberta, em grupo. Não foi direção espiritual nem conversa particular. Isso é importante.
+
+ 6.7       Jacinto: Como vai acontecer                                     @@6.7@@
+
+
+
+
+  1                                           2                                      3                            4
+  O juiz toma o seu                           O juiz faz as perguntas                Se o juiz deixar, a defesa   A advogada da Mariana
+  compromisso de dizer a                      dele.                                  faz perguntas                faz o contra-
+  verdade.                                                                           complementares.              interrogatório.
+
+ 6.8       Jacinto: Perguntas do juiz                            @@6.8@@
+
+
+
+
+   J1 O senhor conhece as partes de onde?
+   RESPOSTA "Sou intercessor do grupo de jovens da Paróquia Nossa Senhora do Socorro e acompanho todas
+   as reuniões. O Augusto participa há dois anos."
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                               18/23
+   J2 Tem amizade com algum deles?
+   RESPOSTA "Não. Conheço da comunidade, como conheço os pais dos outros jovens."
+
+
+   J3 O que o senhor sabe sobre os fatos?
+   RESPOSTA "Em agosto, o Wagner me procurou depois da missa. Disse que o filho falava bem de mim e que
+   queria se aproximar mais do Augusto. Recomendei o Encontro de Casais com Cristo. Em setembro, numa
+   reunião de sábado, o celular do Augusto tocou várias vezes; era a mãe. Ele saiu, voltou abalado e não quis
+   mais participar. No fim, na roda de conversa, na frente de todos, disse que se sentia dividido e que a mãe
+   falava que ele não podia deixá-la sozinha. Nunca vi o Wagner agressivo."
+
+ 6.9       Jacinto: Perguntas da defesa          @@6.9@@
+
+
+
+
+Feitas pelos advogados do Wagner, se o juiz permitir.
+   D1 O pai já procurou o senhor? Para quê?
+   RESPOSTA "Sim, em agosto. Queria se aproximar do filho e saber como participar mais da vida dele."
+
+
+   D2 O que o senhor recomendou a ele?
+   RESPOSTA "O Encontro de Casais com Cristo."
+
+
+   D3 O senhor já presenciou alguma situação entre o Augusto e a mãe durante as atividades?
+   RESPOSTA "Sim. Numa reunião de setembro, a mãe ligou várias vezes. Ele saiu da sala e voltou abalado."
+
+
+   D4 Como o Augusto ficou depois disso?
+   RESPOSTA "Com os olhos vermelhos. Não quis mais participar naquele dia."
+
+
+   D5 O Augusto falou sobre isso em algum momento?
+   RESPOSTA "Na roda de conversa, na frente de todos, disse que se sentia dividido e que a mãe falava que ele
+   não podia deixá-la sozinha."
+
+   D6 O senhor já viu o Wagner agressivo?
+   RESPOSTA "Nunca."
+
+
+ 6.10       Jacinto: Contra-interrogatório da advogada da Mariana                   @@6.10@@
+
+
+
+
+É a parte mais difícil. Respire, ouça a pergunta inteira e responda curto.
+
+   C1 O senhor está revelando o que um adolescente lhe confiou?
+   RESPOSTA "O que um jovem me confia em oração ou em particular fica comigo, e eu não falaria aqui. O que
+   estou contando foi dito em voz alta, na roda de conversa, na frente de todos."
+   Resposta-chave. Diga com calma e firmeza.
+
+   C2 O senhor sabe o que acontece dentro da casa?
+   RESPOSTA "Não. Falo do que vejo na igreja."
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                 19/23
+   C3 O senhor é amigo do Wagner?
+   RESPOSTA "Não. Conheço da comunidade."
+
+
+   C4 O Augusto disse que quer morar com o pai?
+   RESPOSTA "Isso ele nunca disse. Disse que se sentia dividido."
+
+
+   C5 O senhor tem certeza de que era a mãe ao telefone?
+   RESPOSTA "Ele mesmo disse, quando voltou, que era a mãe."
+
+
+   C6 Quem levava o Augusto com mais frequência?
+   RESPOSTA "Os dois levavam. A mãe com mais frequência, mas o pai sempre participou."
+
+
+   C7 O Augusto já disse que o pai não gostava do grupo?
+   RESPOSTA "Ele achava que o pai não ligava muito. Mas foi justamente o pai que me procurou para se
+   aproximar dele."
+
+   NÃO DIGA                                                POSTURA
+   ✕ Nada do que o Augusto confiou em oração,              ✓ Sereno, voz calma, respostas curtas.
+     direção espiritual ou conversa particular.            ✓ Olhe para o juiz ao responder.
+   ✕ Onde o Augusto quer morar.                            ✓ Não sabe? "Não sei." Não lembra? "Não
+   ✕ "Alienação parental": é termo dos advogados,            lembro."
+     não seu.                                              ✓ Nunca discuta com a advogada da Mariana.
+   ✕ Que o pai não gostava do grupo.                       ✓ Sua força é parecer neutro, não defensor do
+   ✕ Sua opinião sobre a guarda ou sobre quem tem            Wagner.
+     razão.
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                20/23
+CAPÍTULO 7
+
+Índice remissivo
+Onde está cada tema: inicial, provas, contestação e documentos
+                                                                          @@C7@@
+
+
+
+
+ 7.1     Índice remissivo por tema                              @@7.1@@
+
+
+
+
+                                              PROVAS
+ TEMA                             PI          AUT.          CONT.                    OUTROS                  RESPOSTA DA DEFESA
+
+ VIOLÊNCIA E FILHOS
+ Agressão à Mariana p. 3                      p. 2 (foto)   tóp. 5, p. 6 e 7         Rel. item 3             Contenção em conflito recíproco; MP
+                                                                                                             sem notícia formal; o relatório não
+                                                                                                             conclui a origem das marcas
+ Objetos quebrados                p. 3        p. 1 (fotos) tóp. 5, p. 7              Rel. item 3             Caíram na discussão; as fotos não
+                                                                                                             mostram quem quebrou
+ Beatriz (suposto                 p. 3 e      p. 3 e 4      tóp. 5, p. 7 e 8         Rel. item 4             Esbarrou e caiu, sem lesão; não há
+ empurrão)                        4                                                                          nenhum documento médico da Beatriz
+ Laudo do Augusto e não                       p. 4          tóp. 5, p. 8; tóp. 10,   Manifestação de 09/11; Alteração da causa de pedir (CPC, art.
+ "erro material"    fala                      (laudo)       p. 16 a 18               pareceres; Maria       329, II); queda de bicicleta em 13/06
+ Prints de ligações               p. 4        p. 6          não trata                                        Horários impossíveis (CPC, art. 436, II):
+                                                                                                             falar na Parte 1
+ Retirada da escola               p. 4        p. 5 e 7      tóp. 6, p. 9 e 10        Doc. 04 e 05; Maria     Jogo Corinthians x Palmeiras; sem
+ (15/05)                                                                                                     ordem judicial; voltaram no mesmo dia;
+                                                                                                             falha de aviso reconhecida
+ "Ia ver o que era                p. 4        nenhuma       tóp. 6, p. 10                                    Negada e sem prova (CPC, art. 373, I)
+ ficar sem os filhos"
+ Avó materna no                   p. 4        nenhuma       não trata                Rel. item 3; Maria      Mudou-se em agosto, depois dos fatos:
+ apartamento                                                                                                 testemunho indireto
+ Quartos separados                p. 3        nenhuma       não trata                Rel. item 3             Suíte com cama de casal e guarda-
+ x suíte do casal                                                                                            roupa duplo
+ Augusto quer morar p. 4, 5, nenhuma                        tóp. 7, p. 11 e 12       Rel. item 6; Jacinto    Escuta protegida; "se sente dividido";
+ com a mãe          9 e 10                                                                                   não separar os irmãos
+ Beatriz quer morar               não         nenhuma       tóp. 5, p. 7; tóp. 7                             A escuta protegida vai mostrar
+ com o pai                        fala
+ Guarda e visitas                 p. 8, 9, nenhuma          tóp. 7, p. 11 e 12;  Rel. item 6                 Compartilhada é a regra; supervisão é
+ supervisionadas                  16 e 18                   pedidos d a h, p. 36                             medida extrema
+                                                            e 37
+ Religião e EJC                   p. 5        nenhuma       tóp. 8, p. 13 e 14       Doc. 03; Jacinto        O Wagner apoia o EJC
+ Psicólogo e                      p. 6        p. 8          tóp. 9, p. 15            Doc. 07                 Ofereceu psicólogo particular; a
+ "bobagem"                                                                                                   declaração não fala em violência
+ Relatório social                                           tóp. 10, p. 16 a 18      Rel.                    Sem conclusão definitiva; o Wagner
+                                                                                                             não foi entrevistado
+ Alienação parental                                         não trata                Jacinto                 Lei 12.318/2010, art. 4º: pode ser
+                                                                                                             levantada a qualquer tempo
+ Parecer do                                                 não trata                Apostila, cap. 4        Sem avaliação própria; tomou a troca
+ psicólogo                                                                                                   de vítima como dada
+ Conselho Tutelar                                           não trata                Apostila, cap. 4        Laudo sem autoria; irmãos juntos;
+                                                                                                             estudo com os dois pais
+ DINHEIRO E PATRIMÔNIO
+ Divórcio                         p. 3, 8                   tóp. 12, p. 22                                   Concordamos (CPC, art. 356, I)
+                                  e 18
+ Justiça gratuita                 p. 2                      tóp. 2, p. 3 e 4         Doc. 07 e 08            Recebe aluguel: PIX de R$ 6.520
+ Renda do Wagner                  p. 2, 10                  tóp. 13, p. 25 a 27      Doc. 01 e 02            Média de R$ 8.500; faturamento não é
+ (R$ 20 mil)                      e 19                                                                       renda; o pedido "j" fala em R$ 6.000
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                         21/23
+ Alimentos dos                    p. 10,                  tóp. 13, p. 25 a 27             Doc. 01                     30% do líquido: cerca de R$ 2.550
+ filhos (R$ 6.000)                16 e 19
+ Alimentos da                     p. 11,      Anexo I     tóp. 14, p. 28 e 29             Doc. 06 a 08                Exceção; aluguel; R$ 547.500 de
+ Mariana (R$ 4.100)               16 e 19                                                                             meação (CC, art. 1.695); sobrariam R$
+                                                                                                                      100
+ Herança                          p. 6, 7,    nenhuma     tóp. 11, p. 19 a 21                                         Só suspeita; sem valor nem data
+                                  12 e 19
+ Desconsideração                  p. 13 e     nenhuma     tóp. 11, p. 19 a 21                                         Sem prova de desvio ou confusão
+ inversa                          20                                                                                  patrimonial
+ Apartamento (R$ 1                p. 7 e                  tóp. 12.1, p. 23                Rel. item 3                 Meio a meio, com avaliação; o relatório
+ milhão)                          12                                                                                  diz que o imóvel é simples
+ Honda Civic                      p. 7                    tóp. 12.2, p. 23                                            Sub-rogação; sem documentos, vale o
+                                                                                                                      pedido subsidiário
+ Empresa e quotas                 p. 8 e                  tóp. 12.3, p. 24                Doc. 02                     Bens da empresa ficam fora (CC, art.
+                                  12                                                                                  49-A)
+ Indenização (R$ 50               p. 14 e                 tóp. 15, p. 30 a 33             Doc. 06                     A meação compensa (CC, arts. 886 e
+ mil)                             20                                                                                  1.568); ela usava o cartão dele
+ Tutela de urgência               p. 15 a                 tóp. 16, p. 34                                              Só divórcio e alimentos adequados
+                                  17
+ Provas e exibição                p. 17                   tóp. 17, p. 35                                              Exibição limitada ao necessário
+ MP                                                       tóp. 3, p. 5                                                Intervenção obrigatória (CPC, art. 698)
+
+ 7.2      Mapa dos documentos da defesa                                         @@7.2@@
+
+
+
+
+ DOC.                             PÁGINA        DOCUMENTO                                           PROVA
+ Doc. 01                          p. 42         DECORE do Wagner                                    Renda média de R$ 8.500
+ Doc. 02                          p. 43         Demonstrativo do escritório                         Faturamento não é lucro nem pró-labore
+ Doc. 03                          p. 44         Perfil do Augusto                                   Corintiano e ligado à fé
+ Doc. 04                          p. 45         Story na Neo Química Arena, 15/05                   Estavam no jogo
+ Doc. 05                          p. 46 a       Ingressos de Wagner, Beatriz e                      Jogo às 18h30, lugares C-9 a C-11
+                                  48            Augusto
+ Doc. 06                          p. 49         WhatsApp da farmácia                                Ela usa o cartão dele e recebe aluguel
+ Doc. 07                          p. 50 e 51 WhatsApp do psicólogo                                  Psicólogo particular oferecido; "Recebi o valor do
+                                                                                                    aluguel"
+ Doc. 08                          p. 52         PIX de R$ 6.520, 20/04/2026                         Aluguel na conta dela
+
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                                  22/23
+CAPÍTULO 8
+
+Alegações e frases
+Plano B das alegações orais, frases de bolso e checklist
+                                                                           @@C8@@
+
+
+
+
+ 8.1      Plano B: alegações finais orais (cerca de 5 minutos)                                           @@8.1@@
+
+
+
+
+   MARCOS ABRE                                                                      GUI NO MEIO; MARCOS FECHA
+   1. Abertura: "Encerrada a instrução, o que se vê é                                 1. Renda real de R$ 8.500 (Doc. 01); faturamento
+      uma distância grande entre o que a inicial                                         não é renda (Doc. 02); 30% = R$ 2.550.
+      afirma e o que a prova demonstrou."                                             2. Ela recebe aluguel (Doc. 07 e 08) e terá R$
+   2. O MP registrou que não há notícia formal de                                        547.500 de meação (CC, art. 1.695).
+      violência.                                                                      3. Herança e desconsideração: só suspeita (CPC,
+   3. O laudo é do Augusto; não há documento da                                          arts. 373, I, e 134, § 4º).
+      Beatriz; a autora trocou a vítima depois da                                     4. Indenização: a meação compensa (CC, arts.
+      contestação (CPC, art. 329, II).                                                   886 e 1.568).
+   4. A Maria viu o Augusto cair de bicicleta; a avó                                  5. Pedidos finais, na ordem da contestação, e
+      não presenciou nada.                                                               "São os termos em que pede deferimento."
+   5. Guarda compartilhada é a regra; estudo
+      psicossocial com entrevista do pai.
+Cite o que aconteceu na sala: a fala do MP, dos técnicos, da Maria, do Jacinto e dos filhos. Vale mais do que qualquer frase
+pronta.
+
+ 8.2       Frases de bolso                    @@8.2@@
+
+
+
+
+ SITUAÇÃO                         O QUE DIZER
+ Pedir a palavra fora             "Pela ordem, Excelência."
+ da vez
+ Registrar algo                   "Requeiro que conste em ata que..."
+ Pergunta indeferida "Retiro a pergunta, Excelência." ou "Requeiro que conste em ata o indeferimento."
+ Objeção à sua                    "A pergunta diz respeito à motivação dos pedidos de alimentos, partilha e indenização, pontos controvertidos
+ pergunta                         fixados por Vossa Excelência."
+ Erro de digitação                "Erro material de digitação, Excelência." E siga.
+ apontado na peça
+ "Visita à residência             "O que a defesa pede é que o requerido também seja ouvido e avaliado; ele reside no imóvel e não foi
+ paterna"                         entrevistado."
+ Falar em pé                      Prerrogativa do art. 7º, VII, do Estatuto da Advocacia. Em pé, sim; circulando pela sala, não.
+ Deu branco                       "Excelência, peço um instante para consultar minhas anotações."
+ Encerrar perguntas               "Sem mais perguntas, Excelência."
+
+ 8.3       Checklist do dia                      @@8.3@@
+
+
+
+
+   LEVAR IMPRESSO                                                                   REGRAS DA DUPLA
+   ✓ Contestação e documentos (52 p.)                                               ✓ Um fala, o outro anota contradições.
+   ✓ Inicial, provas da autora e manifestação de                                    ✓ Bilhete, não cochicho.
+     09/11                                                                          ✓ Sinal combinado de "CHEGA" para parar de
+   ✓ Relatório social e os dois pareceres                                             perguntar.
+   ✓ Esta apostila e folhas para anotar                                             ✓ Um assunto, uma voz.
+                                                                                    ✓ Alegações: 20 minutos para a defesa inteira.
+
+
+
+Defesa de Wagner Alves · Apostila da defesa                                                                                                 23/23
+

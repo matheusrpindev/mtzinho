@@ -1,11 +1,18 @@
 <div class="app">
   <header class="marca">
-    <div class="marca-linha">
-      <p class="marca-nome">Teles &amp; Ramos Advocacia <span class="ponto">·</span> Consulta de Audiência</p>
+    <div class="marca-dentro">
+      <span class="selo" aria-hidden="true">T&amp;R</span>
+      <div class="marca-texto">
+        <p class="marca-nome">Teles &amp; Ramos Advocacia</p>
+        <p class="marca-sistema">Consulta de Audiência</p>
+      </div>
       <button type="button" class="btn-tema" id="btn-tema" data-acao="tema">Tema escuro</button>
     </div>
-    <p class="marca-caso"><strong>Mariana Alves x Wagner Alves</strong> <span class="ponto">·</span> Defesa do requerido <span class="ponto">·</span> Vara da Família e das Sucessões de Mogi das Cruzes/SP <span class="ponto">·</span> Audiência simulada de 11/11/2026</p>
   </header>
+  <div class="autos">
+    <p><strong>Mariana Alves x Wagner Alves</strong></p>
+    <p>Defesa do requerido <span class="ponto">·</span> Vara da Família e das Sucessões de Mogi das Cruzes/SP <span class="ponto">·</span> Audiência simulada de 11/11/2026</p>
+  </div>
 
   <div class="barra">
     <div class="barra-dentro">
@@ -17,11 +24,11 @@
       <div class="status" id="status" hidden></div>
     </div>
     <nav class="abas" id="abas" aria-label="Telas">
-      <a href="#busca" data-tela="busca">Busca</a>
-      <a href="#audiencia" data-tela="audiencia">Audiência</a>
-      <a href="#perguntas" data-tela="perguntas">Perguntas</a>
-      <a href="#anotacoes" data-tela="anotacoes">Anotações</a>
-      <a href="#cronometro" data-tela="cronometro">Cronômetro</a>
+      <a href="#busca" data-tela="busca"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>Busca</a>
+      <a href="#audiencia" data-tela="audiencia"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1.4"/><circle cx="4.5" cy="12" r="1.4"/><circle cx="4.5" cy="18" r="1.4"/></svg>Audiência</a>
+      <a href="#perguntas" data-tela="perguntas"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H10l-4 4v-4H4z"/><path d="M10 9.2a2 2 0 1 1 2.6 1.9c-.4.2-.6.5-.6 1M12 13.6v.2"/></svg>Perguntas</a>
+      <a href="#anotacoes" data-tela="anotacoes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19l1-4L16.5 4.5l3 3L9 18z"/><path d="M14.5 6.5l3 3"/></svg>Anotações</a>
+      <a href="#cronometro" data-tela="cronometro"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="13" r="7.5"/><path d="M12 9v4l2.5 2M9.5 3h5"/></svg>Cronômetro</a>
     </nav>
   </div>
 

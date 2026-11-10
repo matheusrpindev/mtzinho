@@ -132,7 +132,7 @@
     var el = $('atalhos');
     el.className = 'atalhos' + (E.q || E.atalho ? ' compacto' : '');
     el.innerHTML = DADOS.atalhos.map(function (a) {
-      return '<button type="button" data-acao="atalho" data-id="' + a.id + '" aria-pressed="' + (E.atalho === a.id) + '">' + esc(a.rotulo) + '</button>';
+      return '<button type="button" data-acao="atalho" data-id="' + a.id + '" aria-pressed="' + (E.atalho === a.id) + '"><span>' + esc(a.rotulo) + '</span><small>' + motor.porAtalho(a.id).length + ' fichas</small></button>';
     }).join('');
   }
   function inicio() {
@@ -208,8 +208,8 @@
       var atual = E.parte === p.n;
       var aberta = E.aberta === p.n;
       var h = '<li class="parte' + (atual ? ' atual' : '') + '"><button type="button" class="parte-topo" data-acao="abrir-parte" data-n="' + p.n +
-        '" aria-expanded="' + aberta + '"><span class="parte-n">Parte ' + p.n + (atual ? ' · atual' : '') + '</span><span class="parte-titulo">' +
-        esc(p.titulo) + '</span><span class="parte-quem">' + esc(p.quem) + '</span></button>';
+        '" aria-expanded="' + aberta + '"><span class="parte-n">' + p.n + '</span><span class="parte-titulo">' +
+        esc(p.titulo) + (atual ? '<span class="selo-atual">Atual</span>' : '') + '</span><span class="parte-quem">' + esc(p.quem) + '</span></button>';
       if (aberta) {
         h += '<div class="parte-corpo"><p><strong>' + esc(p.resumo) + '</strong></p>';
         if (p.juiz) h += '<div class="juiz"><b>O juiz, no roteiro da professora</b>' + esc(p.juiz) + '</div>';
